@@ -1,0 +1,4062 @@
+[
+    {
+        "Kingdom": 1,
+        "Lost Kingdom": 2,
+        "ID": 192291497,
+        "Name": "㋡ Kiệt",
+        "Power": 34641763,
+        "KP": 564081732,
+        "Dead": 1551279,
+        "Score": 572362.156
+    },
+    {
+        "Kingdom": 2,
+        "Lost Kingdom": 6,
+        "ID": 188874942,
+        "Name": "Zhirafik",
+        "Power": 43842846,
+        "KP": 452616296,
+        "Dead": 1198455,
+        "Score": 424853.354
+    },
+    {
+        "Kingdom": 3,
+        "Lost Kingdom": 13,
+        "ID": 192186720,
+        "Name": "㋡ BrooK",
+        "Power": 33150684,
+        "KP": 329476169,
+        "Dead": 677305,
+        "Score": 297040.051
+    },
+    {
+        "Kingdom": 4,
+        "Lost Kingdom": 19,
+        "ID": 189160387,
+        "Name": "Alerquina",
+        "Power": 44327983,
+        "KP": 262167893,
+        "Dead": 1136984,
+        "Score": 230361.127
+    },
+    {
+        "Kingdom": 5,
+        "Lost Kingdom": 17,
+        "ID": 192271816,
+        "Name": "㋡ Kaiser",
+        "Power": 49910220,
+        "KP": 271452589,
+        "Dead": 1057713,
+        "Score": 224517.799
+    },
+    {
+        "Kingdom": 6,
+        "Lost Kingdom": 25,
+        "ID": 189317393,
+        "Name": "㋡ABɎGAIL",
+        "Power": 44140519,
+        "KP": 185096385,
+        "Dead": 1961333,
+        "Score": 194881.997
+    },
+    {
+        "Kingdom": 7,
+        "Lost Kingdom": 29,
+        "ID": 192127162,
+        "Name": "㋡tђє l๏ภﻮ",
+        "Power": 34759299,
+        "KP": 231722452,
+        "Dead": 641165,
+        "Score": 194262.104
+    },
+    {
+        "Kingdom": 8,
+        "Lost Kingdom": 38,
+        "ID": 192819906,
+        "Name": "RĒVØLT4D㋡",
+        "Power": 17034300,
+        "KP": 183395920,
+        "Dead": 533424,
+        "Score": 175998.52
+    },
+    {
+        "Kingdom": 9,
+        "Lost Kingdom": 33,
+        "ID": 192983717,
+        "Name": "㋡ SrKiedis",
+        "Power": 37646328,
+        "KP": 175517509,
+        "Dead": 1380326,
+        "Score": 169241.153
+    },
+    {
+        "Kingdom": 10,
+        "Lost Kingdom": 34,
+        "ID": 192470619,
+        "Name": "㋡ Fr0st1k",
+        "Power": 32151812,
+        "KP": 172571740,
+        "Dead": 1170862,
+        "Score": 166811.216
+    },
+    {
+        "Kingdom": 11,
+        "Lost Kingdom": 36,
+        "ID": 189647067,
+        "Name": "㋡ BroutcHh",
+        "Power": 33269823,
+        "KP": 158333887,
+        "Dead": 1378796,
+        "Score": 160734.041
+    },
+    {
+        "Kingdom": 12,
+        "Lost Kingdom": 45,
+        "ID": 192333846,
+        "Name": "㋡ Яinka",
+        "Power": 24284313,
+        "KP": 147954609,
+        "Dead": 982484,
+        "Score": 148510.183
+    },
+    {
+        "Kingdom": 13,
+        "Lost Kingdom": 52,
+        "ID": 195343424,
+        "Name": "㋡Nina",
+        "Power": 19199796,
+        "KP": 152188141,
+        "Dead": 484251,
+        "Score": 138001.099
+    },
+    {
+        "Kingdom": 14,
+        "Lost Kingdom": 41,
+        "ID": 192510141,
+        "Name": "㋡ Stitch",
+        "Power": 39707577,
+        "KP": 144738570,
+        "Dead": 1289705,
+        "Score": 129808.666
+    },
+    {
+        "Kingdom": 15,
+        "Lost Kingdom": 60,
+        "ID": 192497357,
+        "Name": "㋡ SURGICAL",
+        "Power": 31611368,
+        "KP": 111873351,
+        "Dead": 1077465,
+        "Score": 102523.865
+    },
+    {
+        "Kingdom": 16,
+        "Lost Kingdom": 63,
+        "ID": 193010699,
+        "Name": "㋡ Sinquini",
+        "Power": 33665268,
+        "KP": 116387550,
+        "Dead": 852610,
+        "Score": 91687.514
+    },
+    {
+        "Kingdom": 17,
+        "Lost Kingdom": 112,
+        "ID": 188960593,
+        "Name": "㋡ kemi",
+        "Power": 17930695,
+        "KP": 76253517,
+        "Dead": 1015633,
+        "Score": 91173.777
+    },
+    {
+        "Kingdom": 18,
+        "Lost Kingdom": 77,
+        "ID": 195204428,
+        "Name": "㋡NickMiles",
+        "Power": 27955675,
+        "KP": 112195757,
+        "Dead": 560864,
+        "Score": 84327.607
+    },
+    {
+        "Kingdom": 19,
+        "Lost Kingdom": 70,
+        "ID": 192409883,
+        "Name": "㋡ Bi",
+        "Power": 36141810,
+        "KP": 110364575,
+        "Dead": 846675,
+        "Score": 80414.705
+    },
+    {
+        "Kingdom": 20,
+        "Lost Kingdom": 109,
+        "ID": 192416633,
+        "Name": "㋡HalloDar",
+        "Power": 24647819,
+        "KP": 96754008,
+        "Dead": 520984,
+        "Score": 73507.57
+    },
+    {
+        "Kingdom": 21,
+        "Lost Kingdom": 83,
+        "ID": 192638628,
+        "Name": "㋡ Zappe",
+        "Power": 35633519,
+        "KP": 94332545,
+        "Dead": 1008442,
+        "Score": 73487.607
+    },
+    {
+        "Kingdom": 22,
+        "Lost Kingdom": 87,
+        "ID": 192473033,
+        "Name": "黒川 イザナ",
+        "Power": 34415049,
+        "KP": 110168320,
+        "Dead": 583668,
+        "Score": 70521.622
+    },
+    {
+        "Kingdom": 23,
+        "Lost Kingdom": 74,
+        "ID": 192468180,
+        "Name": "㋡ Ukarma",
+        "Power": 37973561,
+        "KP": 110704407,
+        "Dead": 674765,
+        "Score": 68495.535
+    },
+    {
+        "Kingdom": 24,
+        "Lost Kingdom": 91,
+        "ID": 192471376,
+        "Name": "㋡ Bankai",
+        "Power": 34260602,
+        "KP": 90931130,
+        "Dead": 907194,
+        "Score": 67769.626
+    },
+    {
+        "Kingdom": 25,
+        "Lost Kingdom": 125,
+        "ID": 196445920,
+        "Name": "㋡Braker",
+        "Power": 23367712,
+        "KP": 93698880,
+        "Dead": 405293,
+        "Score": 67228.106
+    },
+    {
+        "Kingdom": 26,
+        "Lost Kingdom": 143,
+        "ID": 189154679,
+        "Name": "㋡Barsu4e4ek",
+        "Power": 23651013,
+        "KP": 61115893,
+        "Dead": 1066766,
+        "Score": 67152.167
+    },
+    {
+        "Kingdom": 27,
+        "Lost Kingdom": 96,
+        "ID": 195331500,
+        "Name": "㋡ALEXANDER",
+        "Power": 39409795,
+        "KP": 74940290,
+        "Dead": 1257539,
+        "Score": 58997.65
+    },
+    {
+        "Kingdom": 28,
+        "Lost Kingdom": 245,
+        "ID": 192988677,
+        "Name": "㋡ hmsraza",
+        "Power": 14677527,
+        "KP": 40267864,
+        "Dead": 922360,
+        "Score": 57030.81
+    },
+    {
+        "Kingdom": 29,
+        "Lost Kingdom": 242,
+        "ID": 192400526,
+        "Name": "㋡Uzumaki Naruto",
+        "Power": 16215201,
+        "KP": 41363872,
+        "Dead": 934886,
+        "Score": 55677.77
+    },
+    {
+        "Kingdom": 30,
+        "Lost Kingdom": 150,
+        "ID": 192767308,
+        "Name": "㋡ BLACK",
+        "Power": 27337724,
+        "KP": 65927524,
+        "Dead": 841817,
+        "Score": 53342.926
+    },
+    {
+        "Kingdom": 31,
+        "Lost Kingdom": 159,
+        "ID": 193015059,
+        "Name": "㋡ KAL KAL",
+        "Power": 28724778,
+        "KP": 43809294,
+        "Dead": 1314999,
+        "Score": 52109.688
+    },
+    {
+        "Kingdom": 32,
+        "Lost Kingdom": 103,
+        "ID": 192809359,
+        "Name": "㋡ Eagle",
+        "Power": 39101726,
+        "KP": 91329195,
+        "Dead": 762541,
+        "Score": 51252.793
+    },
+    {
+        "Kingdom": 33,
+        "Lost Kingdom": 204,
+        "ID": 195205685,
+        "Name": "㋡ RAGNAR",
+        "Power": 25678555,
+        "KP": 26335339,
+        "Dead": 1493473,
+        "Score": 49651.879
+    },
+    {
+        "Kingdom": 34,
+        "Lost Kingdom": 291,
+        "ID": 194961999,
+        "Name": "Lerds",
+        "Power": 15629047,
+        "KP": 22388215,
+        "Dead": 1161666,
+        "Score": 49213.421
+    },
+    {
+        "Kingdom": 35,
+        "Lost Kingdom": 169,
+        "ID": 192956148,
+        "Name": "㋡Жор",
+        "Power": 30236751,
+        "KP": 52630897,
+        "Dead": 1117378,
+        "Score": 48026.295
+    },
+    {
+        "Kingdom": 36,
+        "Lost Kingdom": 179,
+        "ID": 192832612,
+        "Name": "㋡ M3nthiss",
+        "Power": 29975130,
+        "KP": 36445637,
+        "Dead": 1427097,
+        "Score": 47850.227
+    },
+    {
+        "Kingdom": 37,
+        "Lost Kingdom": 202,
+        "ID": 195940539,
+        "Name": "㋡Pizaroo",
+        "Power": 25230738,
+        "KP": 39705315,
+        "Dead": 1122891,
+        "Score": 45388.389
+    },
+    {
+        "Kingdom": 38,
+        "Lost Kingdom": 290,
+        "ID": 195333516,
+        "Name": "㋡ Alp Barlos乂",
+        "Power": 18409115,
+        "KP": 22494148,
+        "Dead": 1162041,
+        "Score": 43777.968
+    },
+    {
+        "Kingdom": 39,
+        "Lost Kingdom": 194,
+        "ID": 192048940,
+        "Name": "㋡Arlec",
+        "Power": 24011587,
+        "KP": 73854581,
+        "Dead": 320644,
+        "Score": 41863.607
+    },
+    {
+        "Kingdom": 40,
+        "Lost Kingdom": 218,
+        "ID": 192972198,
+        "Name": "㋡ Viking",
+        "Power": 24077556,
+        "KP": 69403245,
+        "Dead": 399030,
+        "Score": 41199.633
+    },
+    {
+        "Kingdom": 41,
+        "Lost Kingdom": 362,
+        "ID": 195891109,
+        "Name": "㋡2006 HRA",
+        "Power": 12761050,
+        "KP": 41815465,
+        "Dead": 493125,
+        "Score": 40949.615
+    },
+    {
+        "Kingdom": 42,
+        "Lost Kingdom": 228,
+        "ID": 193563465,
+        "Name": "㋡Bắp",
+        "Power": 22193499,
+        "KP": 65453020,
+        "Dead": 384724,
+        "Score": 40302.222
+    },
+    {
+        "Kingdom": 43,
+        "Lost Kingdom": 373,
+        "ID": 196886646,
+        "Name": "㋡SANJAR",
+        "Power": 13875589,
+        "KP": 20901859,
+        "Dead": 937925,
+        "Score": 40046.931
+    },
+    {
+        "Kingdom": 44,
+        "Lost Kingdom": 167,
+        "ID": 192543798,
+        "Name": "㋡ aTani",
+        "Power": 33936037,
+        "KP": 56395356,
+        "Dead": 970652,
+        "Score": 37055.882
+    },
+    {
+        "Kingdom": 45,
+        "Lost Kingdom": 418,
+        "ID": 194700769,
+        "Name": "㋡ Solo SL",
+        "Power": 13259202,
+        "KP": 21653519,
+        "Dead": 827370,
+        "Score": 36503.615
+    },
+    {
+        "Kingdom": 46,
+        "Lost Kingdom": 216,
+        "ID": 192058861,
+        "Name": "㋡ MIBOY",
+        "Power": 24026695,
+        "KP": 75534430,
+        "Dead": 165418,
+        "Score": 35751.94
+    },
+    {
+        "Kingdom": 47,
+        "Lost Kingdom": 186,
+        "ID": 194386285,
+        "Name": "㋡Каtara",
+        "Power": 29604245,
+        "KP": 73378831,
+        "Dead": 417822,
+        "Score": 35061.441
+    },
+    {
+        "Kingdom": 48,
+        "Lost Kingdom": 258,
+        "ID": 195225820,
+        "Name": "㋡ Berlyninja",
+        "Power": 24601643,
+        "KP": 41965824,
+        "Dead": 817093,
+        "Score": 33617.188
+    },
+    {
+        "Kingdom": 49,
+        "Lost Kingdom": 236,
+        "ID": 195322872,
+        "Name": "㋡BepH1989",
+        "Power": 27877563,
+        "KP": 44536472,
+        "Dead": 873971,
+        "Score": 32479.896
+    },
+    {
+        "Kingdom": 50,
+        "Lost Kingdom": 313,
+        "ID": 194283925,
+        "Name": "㋡ SherOka",
+        "Power": 22695019,
+        "KP": 21249101,
+        "Dead": 1127373,
+        "Score": 32227.713
+    },
+    {
+        "Kingdom": 51,
+        "Lost Kingdom": 226,
+        "ID": 192474677,
+        "Name": "㋡ Alerquina",
+        "Power": 27401247,
+        "KP": 55506880,
+        "Dead": 627066,
+        "Score": 32057.686
+    },
+    {
+        "Kingdom": 52,
+        "Lost Kingdom": 238,
+        "ID": 194383180,
+        "Name": "㋡KurT",
+        "Power": 26984881,
+        "KP": 68420508,
+        "Dead": 349704,
+        "Score": 31935.946
+    },
+    {
+        "Kingdom": 53,
+        "Lost Kingdom": 248,
+        "ID": 193137689,
+        "Name": "㋡ DUN K4",
+        "Power": 27018211,
+        "KP": 51997621,
+        "Dead": 675660,
+        "Score": 31744.199
+    },
+    {
+        "Kingdom": 54,
+        "Lost Kingdom": 341,
+        "ID": 146145403,
+        "Name": "㋡ Gaser007",
+        "Power": 18497614,
+        "KP": 32160781,
+        "Dead": 721581,
+        "Score": 31244.603
+    },
+    {
+        "Kingdom": 55,
+        "Lost Kingdom": 463,
+        "ID": 195994421,
+        "Name": "Himg84",
+        "Power": 15323838,
+        "KP": 8276780,
+        "Dead": 1054747,
+        "Score": 30366.454
+    },
+    {
+        "Kingdom": 56,
+        "Lost Kingdom": 369,
+        "ID": 192253723,
+        "Name": "ᴹᵒ Hamadosh",
+        "Power": 18836172,
+        "KP": 23922772,
+        "Dead": 860889,
+        "Score": 29294.878
+    },
+    {
+        "Kingdom": 57,
+        "Lost Kingdom": 391,
+        "ID": 192761022,
+        "Name": "㋡WHITE",
+        "Power": 18554221,
+        "KP": 23537953,
+        "Dead": 849596,
+        "Score": 28909.311
+    },
+    {
+        "Kingdom": 58,
+        "Lost Kingdom": 308,
+        "ID": 190131201,
+        "Name": "Q19",
+        "Power": 21740077,
+        "KP": 31463426,
+        "Dead": 816082,
+        "Score": 28787.372
+    },
+    {
+        "Kingdom": 59,
+        "Lost Kingdom": 417,
+        "ID": 192140737,
+        "Name": "ES㋡Timmy01",
+        "Power": 19566115,
+        "KP": 8579591,
+        "Dead": 1164867,
+        "Score": 27690.711
+    },
+    {
+        "Kingdom": 60,
+        "Lost Kingdom": 438,
+        "ID": 195923692,
+        "Name": "㋡REGINALD",
+        "Power": 15766905,
+        "KP": 21817462,
+        "Dead": 741517,
+        "Score": 27359.502
+    },
+    {
+        "Kingdom": 61,
+        "Lost Kingdom": 437,
+        "ID": 195205425,
+        "Name": "㋡MariamKulikova",
+        "Power": 18533130,
+        "KP": 7462943,
+        "Dead": 1136720,
+        "Score": 27232.683
+    },
+    {
+        "Kingdom": 62,
+        "Lost Kingdom": 307,
+        "ID": 195936111,
+        "Name": "㋡PanPapan",
+        "Power": 23093373,
+        "KP": 35139595,
+        "Dead": 764835,
+        "Score": 27194.599
+    },
+    {
+        "Kingdom": 63,
+        "Lost Kingdom": 376,
+        "ID": 195939008,
+        "Name": "㋡Surfista SIGMA",
+        "Power": 19002285,
+        "KP": 29649541,
+        "Dead": 704492,
+        "Score": 26869.571
+    },
+    {
+        "Kingdom": 64,
+        "Lost Kingdom": 351,
+        "ID": 195445136,
+        "Name": "㋡Ja",
+        "Power": 20875521,
+        "KP": 30810094,
+        "Dead": 721375,
+        "Score": 25127.802
+    },
+    {
+        "Kingdom": 65,
+        "Lost Kingdom": 314,
+        "ID": 192994197,
+        "Name": "M1R4G3",
+        "Power": 22616640,
+        "KP": 36205262,
+        "Dead": 679893,
+        "Score": 24966.632
+    },
+    {
+        "Kingdom": 66,
+        "Lost Kingdom": 384,
+        "ID": 195459626,
+        "Name": "㋡ArmSportUA",
+        "Power": 20951370,
+        "KP": 22093420,
+        "Dead": 880785,
+        "Score": 24229.93
+    },
+    {
+        "Kingdom": 67,
+        "Lost Kingdom": 199,
+        "ID": 189748884,
+        "Name": "㋡ Asocial",
+        "Power": 35094142,
+        "KP": 57013916,
+        "Dead": 747746,
+        "Score": 24212.932
+    },
+    {
+        "Kingdom": 68,
+        "Lost Kingdom": 605,
+        "ID": 195897522,
+        "Name": "㋡ ALEXFREDO",
+        "Power": 10440762,
+        "KP": 18395331,
+        "Dead": 529796,
+        "Score": 24003.607
+    },
+    {
+        "Kingdom": 69,
+        "Lost Kingdom": 1105,
+        "ID": 196079213,
+        "Name": "HRA2012",
+        "Power": 1612345,
+        "KP": 81139,
+        "Dead": 522589,
+        "Score": 22985.899
+    },
+    {
+        "Kingdom": 70,
+        "Lost Kingdom": 333,
+        "ID": 195400241,
+        "Name": "㋡ yos vº",
+        "Power": 21203570,
+        "KP": 55059607,
+        "Dead": 176945,
+        "Score": 21499.717
+    },
+    {
+        "Kingdom": 71,
+        "Lost Kingdom": 387,
+        "ID": 195927809,
+        "Name": "㋡ SLEEP",
+        "Power": 19278142,
+        "KP": 41330541,
+        "Dead": 361546,
+        "Score": 20851.557
+    },
+    {
+        "Kingdom": 72,
+        "Lost Kingdom": 481,
+        "ID": 141560566,
+        "Name": "㋡KZEDDD",
+        "Power": 17501276,
+        "KP": 18979932,
+        "Dead": 716750,
+        "Score": 19814.88
+    },
+    {
+        "Kingdom": 73,
+        "Lost Kingdom": 316,
+        "ID": 188789089,
+        "Name": "ᴳᵒKrasavhik",
+        "Power": 27451786,
+        "KP": 33388389,
+        "Dead": 815959,
+        "Score": 19282.767
+    },
+    {
+        "Kingdom": 74,
+        "Lost Kingdom": 363,
+        "ID": 192603609,
+        "Name": "㋡ Rimuro",
+        "Power": 22989258,
+        "KP": 31618887,
+        "Dead": 668464,
+        "Score": 19063.571
+    },
+    {
+        "Kingdom": 75,
+        "Lost Kingdom": 358,
+        "ID": 192249010,
+        "Name": "㋡ Sorro",
+        "Power": 24558535,
+        "KP": 31854423,
+        "Dead": 722800,
+        "Score": 18877.353
+    },
+    {
+        "Kingdom": 76,
+        "Lost Kingdom": 512,
+        "ID": 196073249,
+        "Name": "i quit rok zero",
+        "Power": 17877934,
+        "KP": 18204895,
+        "Dead": 715952,
+        "Score": 18246.627
+    },
+    {
+        "Kingdom": 77,
+        "Lost Kingdom": 781,
+        "ID": 195935578,
+        "Name": "hermannSB",
+        "Power": 9895851,
+        "KP": 6327702,
+        "Dead": 631872,
+        "Score": 18129.6
+    },
+    {
+        "Kingdom": 78,
+        "Lost Kingdom": 821,
+        "ID": 148752188,
+        "Name": "gaser007",
+        "Power": 8976764,
+        "KP": 5047589,
+        "Dead": 618830,
+        "Score": 18035.561
+    },
+    {
+        "Kingdom": 79,
+        "Lost Kingdom": 421,
+        "ID": 190071098,
+        "Name": "㋡ Dibo75",
+        "Power": 21132673,
+        "KP": 28943143,
+        "Dead": 603273,
+        "Score": 16841.447
+    },
+    {
+        "Kingdom": 80,
+        "Lost Kingdom": 305,
+        "ID": 192465329,
+        "Name": "㋡  Panda",
+        "Power": 28748399,
+        "KP": 31171415,
+        "Dead": 850677,
+        "Score": 16208.467
+    },
+    {
+        "Kingdom": 81,
+        "Lost Kingdom": 519,
+        "ID": 195328632,
+        "Name": "㋡ Yoda x KvK x",
+        "Power": 19249876,
+        "KP": 15164179,
+        "Dead": 788129,
+        "Score": 16070.877
+    },
+    {
+        "Kingdom": 82,
+        "Lost Kingdom": 266,
+        "ID": 195999306,
+        "Name": "㋡SõsukeAizen",
+        "Power": 29943704,
+        "KP": 56245853,
+        "Dead": 377350,
+        "Score": 15225.945
+    },
+    {
+        "Kingdom": 83,
+        "Lost Kingdom": 390,
+        "ID": 192844056,
+        "Name": "㋡ CHUBBYCHICK",
+        "Power": 22439757,
+        "KP": 36248358,
+        "Dead": 474424,
+        "Score": 15090.044
+    },
+    {
+        "Kingdom": 84,
+        "Lost Kingdom": 406,
+        "ID": 191915910,
+        "Name": "㋡Slide ROKs it",
+        "Power": 23424472,
+        "KP": 23899731,
+        "Dead": 760137,
+        "Score": 15057.637
+    },
+    {
+        "Kingdom": 85,
+        "Lost Kingdom": 432,
+        "ID": 190959868,
+        "Name": "㋡Harrier",
+        "Power": 23852903,
+        "KP": 17216531,
+        "Dead": 901419,
+        "Score": 14581.675
+    },
+    {
+        "Kingdom": 86,
+        "Lost Kingdom": 1003,
+        "ID": 192609867,
+        "Name": "FarmKiệt",
+        "Power": 7419312,
+        "KP": 1813550,
+        "Dead": 551156,
+        "Score": 14532.726
+    },
+    {
+        "Kingdom": 87,
+        "Lost Kingdom": 310,
+        "ID": 191658367,
+        "Name": "㋡Nizit",
+        "Power": 28036748,
+        "KP": 44861274,
+        "Dead": 506243,
+        "Score": 14099.928
+    },
+    {
+        "Kingdom": 88,
+        "Lost Kingdom": 604,
+        "ID": 195509884,
+        "Name": "㋡HiếuHayỈa",
+        "Power": 16134178,
+        "KP": 19498397,
+        "Dead": 533942,
+        "Score": 13927.141
+    },
+    {
+        "Kingdom": 89,
+        "Lost Kingdom": 547,
+        "ID": 195995214,
+        "Name": "㋡ Patoctox",
+        "Power": 19112166,
+        "KP": 9549578,
+        "Dead": 850416,
+        "Score": 13846.046
+    },
+    {
+        "Kingdom": 90,
+        "Lost Kingdom": 880,
+        "ID": 195144551,
+        "Name": "Yújin",
+        "Power": 9483352,
+        "KP": 6437578,
+        "Dead": 521471,
+        "Score": 13544.424
+    },
+    {
+        "Kingdom": 91,
+        "Lost Kingdom": 656,
+        "ID": 195674241,
+        "Name": "㋡MR",
+        "Power": 15822865,
+        "KP": 10495192,
+        "Dead": 688473,
+        "Score": 13273.112
+    },
+    {
+        "Kingdom": 92,
+        "Lost Kingdom": 1412,
+        "ID": 195893243,
+        "Name": "BOHORLARDAjanze",
+        "Power": 2139155,
+        "KP": 1509116,
+        "Dead": 314187,
+        "Score": 12940.156
+    },
+    {
+        "Kingdom": 93,
+        "Lost Kingdom": 1183,
+        "ID": 195881994,
+        "Name": "Chochima",
+        "Power": 5724533,
+        "KP": 1389643,
+        "Dead": 458728,
+        "Score": 12876.977
+    },
+    {
+        "Kingdom": 94,
+        "Lost Kingdom": 810,
+        "ID": 196000973,
+        "Name": "㋡Don Lorenzo",
+        "Power": 10375067,
+        "KP": 16966138,
+        "Dead": 325549,
+        "Score": 12493.454
+    },
+    {
+        "Kingdom": 95,
+        "Lost Kingdom": 397,
+        "ID": 98004346,
+        "Name": "㋡Latent Soul",
+        "Power": 24027565,
+        "KP": 33735220,
+        "Dead": 532972,
+        "Score": 12328.69
+    },
+    {
+        "Kingdom": 96,
+        "Lost Kingdom": 1252,
+        "ID": 195539600,
+        "Name": "Bůtton Måsher",
+        "Power": 4707038,
+        "KP": 4182138,
+        "Dead": 346395,
+        "Score": 12087.812
+    },
+    {
+        "Kingdom": 97,
+        "Lost Kingdom": 783,
+        "ID": 195898987,
+        "Name": "㋡ Z E E",
+        "Power": 12819699,
+        "KP": 12625737,
+        "Dead": 500513,
+        "Score": 12011.989
+    },
+    {
+        "Kingdom": 98,
+        "Lost Kingdom": 787,
+        "ID": 195941481,
+        "Name": "㋡Jerry6",
+        "Power": 12986355,
+        "KP": 6058531,
+        "Dead": 631195,
+        "Score": 11645.571
+    },
+    {
+        "Kingdom": 99,
+        "Lost Kingdom": 1462,
+        "ID": 195982217,
+        "Name": "Riono",
+        "Power": 2697865,
+        "KP": 200015,
+        "Dead": 329361,
+        "Score": 11272.335
+    },
+    {
+        "Kingdom": 100,
+        "Lost Kingdom": 571,
+        "ID": 196026931,
+        "Name": "㋡ dungxk9999",
+        "Power": 17543557,
+        "KP": 25248459,
+        "Dead": 412931,
+        "Score": 10807.895
+    },
+    {
+        "Kingdom": 101,
+        "Lost Kingdom": 459,
+        "ID": 195359684,
+        "Name": "㋡ Abdulloh 乂",
+        "Power": 22797987,
+        "KP": 21377622,
+        "Dead": 699476,
+        "Score": 10755.448
+    },
+    {
+        "Kingdom": 102,
+        "Lost Kingdom": 345,
+        "ID": 195284145,
+        "Name": "㋡Memento mori",
+        "Power": 29001667,
+        "KP": 32304816,
+        "Dead": 721385,
+        "Score": 10370.732
+    },
+    {
+        "Kingdom": 103,
+        "Lost Kingdom": 568,
+        "ID": 195912919,
+        "Name": "㋡Moonlight076",
+        "Power": 17084999,
+        "KP": 30424064,
+        "Dead": 280325,
+        "Score": 10270.316
+    },
+    {
+        "Kingdom": 104,
+        "Lost Kingdom": 1647,
+        "ID": 196816290,
+        "Name": "decheffarm",
+        "Power": 1302419,
+        "KP": 288636,
+        "Dead": 251186,
+        "Score": 10243.098
+    },
+    {
+        "Kingdom": 105,
+        "Lost Kingdom": 548,
+        "ID": 195952643,
+        "Name": "㋡ Khal Luih",
+        "Power": 17546400,
+        "KP": 28436831,
+        "Dead": 337268,
+        "Score": 10207.431
+    },
+    {
+        "Kingdom": 106,
+        "Lost Kingdom": 326,
+        "ID": 193311387,
+        "Name": "Drev1n",
+        "Power": 29399490,
+        "KP": 37002759,
+        "Dead": 638122,
+        "Score": 10109.879
+    },
+    {
+        "Kingdom": 107,
+        "Lost Kingdom": 1327,
+        "ID": 195934310,
+        "Name": "Ark of Orisis",
+        "Power": 4731290,
+        "KP": 738930,
+        "Dead": 374502,
+        "Score": 10001.45
+    },
+    {
+        "Kingdom": 108,
+        "Lost Kingdom": 1472,
+        "ID": 194143745,
+        "Name": "MiniMugiBroutch",
+        "Power": 3238154,
+        "KP": 135509,
+        "Dead": 326547,
+        "Score": 9986.551
+    },
+    {
+        "Kingdom": 109,
+        "Lost Kingdom": 700,
+        "ID": 25320552,
+        "Name": "Dark Tonga",
+        "Power": 16183699,
+        "KP": 8351576,
+        "Dead": 674242,
+        "Score": 9696.278
+    },
+    {
+        "Kingdom": 110,
+        "Lost Kingdom": 492,
+        "ID": 192516205,
+        "Name": "waterlsLiquid",
+        "Power": 23804677,
+        "KP": 12431744,
+        "Dead": 876993,
+        "Score": 8672.04
+    },
+    {
+        "Kingdom": 111,
+        "Lost Kingdom": 1711,
+        "ID": 203120676,
+        "Name": "gaser008",
+        "Power": 1647319,
+        "KP": 112611,
+        "Dead": 228766,
+        "Score": 8256.273
+    },
+    {
+        "Kingdom": 112,
+        "Lost Kingdom": 381,
+        "ID": 195187580,
+        "Name": "㋡Malo mori",
+        "Power": 28109949,
+        "KP": 32354120,
+        "Dead": 634086,
+        "Score": 7838.522
+    },
+    {
+        "Kingdom": 113,
+        "Lost Kingdom": 301,
+        "ID": 185807767,
+        "Name": "㋡  ROSIE",
+        "Power": 30724122,
+        "KP": 47925350,
+        "Dead": 426265,
+        "Score": 7790.356
+    },
+    {
+        "Kingdom": 114,
+        "Lost Kingdom": 427,
+        "ID": 195960813,
+        "Name": "㋡ Tashi",
+        "Power": 22356595,
+        "KP": 48838982,
+        "Dead": 71130,
+        "Score": 7682.292
+    },
+    {
+        "Kingdom": 115,
+        "Lost Kingdom": 428,
+        "ID": 194936407,
+        "Name": "FLoiD 93",
+        "Power": 25841716,
+        "KP": 26737964,
+        "Dead": 646839,
+        "Score": 7396.482
+    },
+    {
+        "Kingdom": 116,
+        "Lost Kingdom": 1042,
+        "ID": 195592903,
+        "Name": "Tigrall",
+        "Power": 10644310,
+        "KP": 333664,
+        "Dead": 566009,
+        "Score": 7345.494
+    },
+    {
+        "Kingdom": 117,
+        "Lost Kingdom": 1708,
+        "ID": 195950067,
+        "Name": "Jaiden18",
+        "Power": 2375863,
+        "KP": 320908,
+        "Dead": 229739,
+        "Score": 7056.132
+    },
+    {
+        "Kingdom": 118,
+        "Lost Kingdom": 696,
+        "ID": 195955123,
+        "Name": "㋡ Ozcardo2897",
+        "Power": 15211618,
+        "KP": 23817041,
+        "Dead": 271997,
+        "Score": 6993.655
+    },
+    {
+        "Kingdom": 119,
+        "Lost Kingdom": 1386,
+        "ID": 195913908,
+        "Name": "㋡   SURYAA",
+        "Power": 5427395,
+        "KP": 1105362,
+        "Dead": 334138,
+        "Score": 6957.472
+    },
+    {
+        "Kingdom": 120,
+        "Lost Kingdom": 1475,
+        "ID": 195185743,
+        "Name": "krxzy",
+        "Power": 4981752,
+        "KP": 383510,
+        "Dead": 318234,
+        "Score": 6331.706
+    },
+    {
+        "Kingdom": 121,
+        "Lost Kingdom": 676,
+        "ID": 195887540,
+        "Name": "㋡XenonBlade",
+        "Power": 18851719,
+        "KP": 8168122,
+        "Dead": 716617,
+        "Score": 6295.534
+    },
+    {
+        "Kingdom": 122,
+        "Lost Kingdom": 1108,
+        "ID": 195920352,
+        "Name": "㋡Minato",
+        "Power": 9971431,
+        "KP": 1198384,
+        "Dead": 490528,
+        "Score": 5781.922
+    },
+    {
+        "Kingdom": 123,
+        "Lost Kingdom": 1516,
+        "ID": 195947362,
+        "Name": "Enrique serrano",
+        "Power": 5136918,
+        "KP": 240427,
+        "Dead": 308591,
+        "Score": 5396.141
+    },
+    {
+        "Kingdom": 124,
+        "Lost Kingdom": 1175,
+        "ID": 192617042,
+        "Name": "FarmAKiệt",
+        "Power": 8805260,
+        "KP": 5487201,
+        "Dead": 340191,
+        "Score": 4886.231
+    },
+    {
+        "Kingdom": 125,
+        "Lost Kingdom": 699,
+        "ID": 195995769,
+        "Name": "Scar Lothbrook",
+        "Power": 17490606,
+        "KP": 14730384,
+        "Dead": 500997,
+        "Score": 4799.022
+    },
+    {
+        "Kingdom": 126,
+        "Lost Kingdom": 1466,
+        "ID": 195987758,
+        "Name": "JuanMLth",
+        "Power": 5993306,
+        "KP": 447670,
+        "Dead": 326365,
+        "Score": 4779.308
+    },
+    {
+        "Kingdom": 127,
+        "Lost Kingdom": 1288,
+        "ID": 195988875,
+        "Name": "HD SUMANIAK",
+        "Power": 8188624,
+        "KP": 1752896,
+        "Dead": 378711,
+        "Score": 4311.198
+    },
+    {
+        "Kingdom": 128,
+        "Lost Kingdom": 640,
+        "ID": 195650030,
+        "Name": "㋡варяг",
+        "Power": 19745892,
+        "KP": 16510888,
+        "Dead": 544821,
+        "Score": 4260.154
+    },
+    {
+        "Kingdom": 129,
+        "Lost Kingdom": 474,
+        "ID": 192958190,
+        "Name": "㋡DJ",
+        "Power": 24655640,
+        "KP": 24595427,
+        "Dead": 578111,
+        "Score": 4189.697
+    },
+    {
+        "Kingdom": 130,
+        "Lost Kingdom": 2044,
+        "ID": 193031210,
+        "Name": "BatyrNn",
+        "Power": 1540020,
+        "KP": 117958,
+        "Dead": 137142,
+        "Score": 3895.018
+    },
+    {
+        "Kingdom": 131,
+        "Lost Kingdom": 1151,
+        "ID": 33086508,
+        "Name": "㋡Poliroid",
+        "Power": 9504603,
+        "KP": 5124383,
+        "Dead": 354600,
+        "Score": 3845.177
+    },
+    {
+        "Kingdom": 132,
+        "Lost Kingdom": 1539,
+        "ID": 195902660,
+        "Name": "㋡ H O P E",
+        "Power": 5847004,
+        "KP": 847641,
+        "Dead": 284740,
+        "Score": 3390.633
+    },
+    {
+        "Kingdom": 133,
+        "Lost Kingdom": 565,
+        "ID": 195924833,
+        "Name": "㋡ mondrico",
+        "Power": 20518513,
+        "KP": 29381129,
+        "Dead": 299560,
+        "Score": 3322.103
+    },
+    {
+        "Kingdom": 134,
+        "Lost Kingdom": 566,
+        "ID": 195266369,
+        "Name": "㋡ Sl1zzy",
+        "Power": 21155616,
+        "KP": 26501609,
+        "Dead": 375946,
+        "Score": 2987.677
+    },
+    {
+        "Kingdom": 135,
+        "Lost Kingdom": 978,
+        "ID": 192307154,
+        "Name": "terminertor",
+        "Power": 13616542,
+        "KP": 5431427,
+        "Dead": 489209,
+        "Score": 2658.793
+    },
+    {
+        "Kingdom": 136,
+        "Lost Kingdom": 704,
+        "ID": 195272019,
+        "Name": "㋡ 乂Darius乂",
+        "Power": 18950067,
+        "KP": 18238460,
+        "Dead": 445959,
+        "Score": 2636.276
+    },
+    {
+        "Kingdom": 137,
+        "Lost Kingdom": 1816,
+        "ID": 201946266,
+        "Name": "㋡Alex L Jr",
+        "Power": 3575340,
+        "KP": 204684,
+        "Dead": 187995,
+        "Score": 2453.754
+    },
+    {
+        "Kingdom": 138,
+        "Lost Kingdom": 420,
+        "ID": 195281417,
+        "Name": "㋡ NadiaMisia",
+        "Power": 28702508,
+        "KP": 29665837,
+        "Dead": 603720,
+        "Score": 2446.821
+    },
+    {
+        "Kingdom": 139,
+        "Lost Kingdom": 2121,
+        "ID": 195907117,
+        "Name": "㋡Michael Kaiser",
+        "Power": 1901547,
+        "KP": 121464,
+        "Dead": 116063,
+        "Score": 2121.52
+    },
+    {
+        "Kingdom": 140,
+        "Lost Kingdom": 510,
+        "ID": 195441387,
+        "Name": "㋡ V A K K",
+        "Power": 23547403,
+        "KP": 26834391,
+        "Dead": 447123,
+        "Score": 2095.735
+    },
+    {
+        "Kingdom": 141,
+        "Lost Kingdom": 1089,
+        "ID": 195928844,
+        "Name": "ES㋡Grom",
+        "Power": 12253569,
+        "KP": 6984655,
+        "Dead": 390516,
+        "Score": 2003.317
+    },
+    {
+        "Kingdom": 142,
+        "Lost Kingdom": 2094,
+        "ID": 100553992,
+        "Name": "Арбузз",
+        "Power": 2300037,
+        "KP": 203960,
+        "Dead": 120991,
+        "Score": 1653.436
+    },
+    {
+        "Kingdom": 143,
+        "Lost Kingdom": 2372,
+        "ID": 201289033,
+        "Name": "Poliroid farm",
+        "Power": 1149813,
+        "KP": 38720,
+        "Dead": 74155,
+        "Score": 1446.844
+    },
+    {
+        "Kingdom": 144,
+        "Lost Kingdom": 1057,
+        "ID": 170555660,
+        "Name": "Kill maskort",
+        "Power": 13403183,
+        "KP": 4302805,
+        "Dead": 478914,
+        "Score": 1442.139
+    },
+    {
+        "Kingdom": 145,
+        "Lost Kingdom": 2204,
+        "ID": 195916964,
+        "Name": "хуирыга",
+        "Power": 1906585,
+        "KP": 95290,
+        "Dead": 101687,
+        "Score": 1366.47
+    },
+    {
+        "Kingdom": 146,
+        "Lost Kingdom": 1900,
+        "ID": 195985125,
+        "Name": "㋡gicomu",
+        "Power": 3702513,
+        "KP": 80570,
+        "Dead": 168051,
+        "Score": 1078.094
+    },
+    {
+        "Kingdom": 147,
+        "Lost Kingdom": 1618,
+        "ID": 195986472,
+        "Name": "mîran",
+        "Power": 6137957,
+        "KP": 286400,
+        "Dead": 255624,
+        "Score": 791.686
+    },
+    {
+        "Kingdom": 148,
+        "Lost Kingdom": 2259,
+        "ID": 195909900,
+        "Name": "madara 0",
+        "Power": 2146194,
+        "KP": 321662,
+        "Dead": 92662,
+        "Score": 662.374
+    },
+    {
+        "Kingdom": 149,
+        "Lost Kingdom": 610,
+        "ID": 193083964,
+        "Name": "㋡ ᴹᵒVeXiės",
+        "Power": 21614401,
+        "KP": 24911023,
+        "Dead": 378468,
+        "Score": 605.621
+    },
+    {
+        "Kingdom": 150,
+        "Lost Kingdom": 2236,
+        "ID": 12668567,
+        "Name": "Rom4ikkk",
+        "Power": 2235571,
+        "KP": 352041,
+        "Dead": 92033,
+        "Score": 482.549
+    },
+    {
+        "Kingdom": 151,
+        "Lost Kingdom": 2071,
+        "ID": 198290408,
+        "Name": "2основа",
+        "Power": 3220019,
+        "KP": 219230,
+        "Dead": 124765,
+        "Score": 17.442
+    },
+    {
+        "Kingdom": 152,
+        "Lost Kingdom": 1712,
+        "ID": 195940738,
+        "Name": "Fricardopinto",
+        "Power": 6180972,
+        "KP": 863477,
+        "Dead": 228852,
+        "Score": -55.867
+    },
+    {
+        "Kingdom": 153,
+        "Lost Kingdom": 712,
+        "ID": 195753405,
+        "Name": "㋡Chaos",
+        "Power": 21916238,
+        "KP": 1145260,
+        "Dead": 850300,
+        "Score": -172.216
+    },
+    {
+        "Kingdom": 154,
+        "Lost Kingdom": 1473,
+        "ID": 192605676,
+        "Name": "KiệtFarm",
+        "Power": 8254296,
+        "KP": 645410,
+        "Dead": 312440,
+        "Score": -241.182
+    },
+    {
+        "Kingdom": 155,
+        "Lost Kingdom": 520,
+        "ID": 192577904,
+        "Name": "㋡ Sabina",
+        "Power": 24860423,
+        "KP": 27894556,
+        "Dead": 427844,
+        "Score": -434.09
+    },
+    {
+        "Kingdom": 156,
+        "Lost Kingdom": 1554,
+        "ID": 195941342,
+        "Name": "㋡Danielツ",
+        "Power": 7659598,
+        "KP": 411390,
+        "Dead": 287390,
+        "Score": -538.306
+    },
+    {
+        "Kingdom": 157,
+        "Lost Kingdom": 930,
+        "ID": 195991088,
+        "Name": "㋡ G Malek",
+        "Power": 14841564,
+        "KP": 10596658,
+        "Dead": 368751,
+        "Score": -648.92
+    },
+    {
+        "Kingdom": 158,
+        "Lost Kingdom": 2561,
+        "ID": 197917488,
+        "Name": "НочКаF",
+        "Power": 1600065,
+        "KP": 20902,
+        "Dead": 48494,
+        "Score": -754.528
+    },
+    {
+        "Kingdom": 159,
+        "Lost Kingdom": 1809,
+        "ID": 200605076,
+        "Name": "ES㋡ dun k4",
+        "Power": 5244660,
+        "KP": 637976,
+        "Dead": 180279,
+        "Score": -837.394
+    },
+    {
+        "Kingdom": 160,
+        "Lost Kingdom": 1921,
+        "ID": 201685057,
+        "Name": "Porjai",
+        "Power": 4536333,
+        "KP": 99490,
+        "Dead": 161693,
+        "Score": -888.526
+    },
+    {
+        "Kingdom": 161,
+        "Lost Kingdom": 1437,
+        "ID": 195707975,
+        "Name": "㋡ Mklsilva",
+        "Power": 8793143,
+        "KP": 1459493,
+        "Dead": 303818,
+        "Score": -935.893
+    },
+    {
+        "Kingdom": 162,
+        "Lost Kingdom": 1846,
+        "ID": 196110519,
+        "Name": "㋡ PanPapan Farm",
+        "Power": 5106936,
+        "KP": 696385,
+        "Dead": 166641,
+        "Score": -1185.437
+    },
+    {
+        "Kingdom": 163,
+        "Lost Kingdom": 2695,
+        "ID": 196061884,
+        "Name": "㋡ AIR 乂",
+        "Power": 1405727,
+        "KP": 112241,
+        "Dead": 29458,
+        "Score": -1226.313
+    },
+    {
+        "Kingdom": 164,
+        "Lost Kingdom": 709,
+        "ID": 195542598,
+        "Name": "S I K A K",
+        "Power": 20728238,
+        "KP": 22582880,
+        "Dead": 351795,
+        "Score": -1283.846
+    },
+    {
+        "Kingdom": 165,
+        "Lost Kingdom": 923,
+        "ID": 196108162,
+        "Name": "㋡ MrChasePace",
+        "Power": 16156663,
+        "KP": 6137523,
+        "Dead": 491132,
+        "Score": -1619.203
+    },
+    {
+        "Kingdom": 166,
+        "Lost Kingdom": 666,
+        "ID": 194948550,
+        "Name": "weswes",
+        "Power": 24128886,
+        "KP": 12136320,
+        "Dead": 682294,
+        "Score": -2006.752
+    },
+    {
+        "Kingdom": 167,
+        "Lost Kingdom": 1438,
+        "ID": 192190901,
+        "Name": "Lаdy Di",
+        "Power": 9181909,
+        "KP": 2704752,
+        "Dead": 270894,
+        "Score": -2114.366
+    },
+    {
+        "Kingdom": 168,
+        "Lost Kingdom": 1703,
+        "ID": 195941479,
+        "Name": "un DIOS",
+        "Power": 6785250,
+        "KP": 904956,
+        "Dead": 209211,
+        "Score": -2204.994
+    },
+    {
+        "Kingdom": 169,
+        "Lost Kingdom": 551,
+        "ID": 195878007,
+        "Name": "㋡ Queen Marika",
+        "Power": 22664559,
+        "KP": 35085754,
+        "Dead": 157257,
+        "Score": -2380.514
+    },
+    {
+        "Kingdom": 170,
+        "Lost Kingdom": 1736,
+        "ID": 195912750,
+        "Name": "HANIIF DZAKI AL",
+        "Power": 7799905,
+        "KP": 3000302,
+        "Dead": 202634,
+        "Score": -2467.808
+    },
+    {
+        "Kingdom": 171,
+        "Lost Kingdom": 1127,
+        "ID": 195991895,
+        "Name": "IWillWinSB",
+        "Power": 13750992,
+        "KP": 4518493,
+        "Dead": 410168,
+        "Score": -2475.091
+    },
+    {
+        "Kingdom": 172,
+        "Lost Kingdom": 669,
+        "ID": 195874540,
+        "Name": "㋡panda",
+        "Power": 22819750,
+        "KP": 20083031,
+        "Dead": 460794,
+        "Score": -2516.769
+    },
+    {
+        "Kingdom": 173,
+        "Lost Kingdom": 2961,
+        "ID": 195981356,
+        "Name": "raxear",
+        "Power": 1598483,
+        "KP": 173070,
+        "Dead": 9503,
+        "Score": -2548.746
+    },
+    {
+        "Kingdom": 174,
+        "Lost Kingdom": 1639,
+        "ID": 195907147,
+        "Name": "arsenalptvn",
+        "Power": 7619055,
+        "KP": 245243,
+        "Dead": 247708,
+        "Score": -2607.467
+    },
+    {
+        "Kingdom": 175,
+        "Lost Kingdom": 2155,
+        "ID": 195903906,
+        "Name": "Thống đốc195903906",
+        "Power": 4132687,
+        "KP": 85430,
+        "Dead": 110130,
+        "Score": -2673.444
+    },
+    {
+        "Kingdom": 176,
+        "Lost Kingdom": 1264,
+        "ID": 195909217,
+        "Name": "Eaglee15",
+        "Power": 12957108,
+        "KP": 2166780,
+        "Dead": 419933,
+        "Score": -2750.786
+    },
+    {
+        "Kingdom": 177,
+        "Lost Kingdom": 950,
+        "ID": 195961878,
+        "Name": "MICLOVNN",
+        "Power": 16814787,
+        "KP": 17273523,
+        "Dead": 268280,
+        "Score": -2942.051
+    },
+    {
+        "Kingdom": 178,
+        "Lost Kingdom": 673,
+        "ID": 195971318,
+        "Name": "㋡ Menryko",
+        "Power": 22324187,
+        "KP": 16692017,
+        "Dead": 497150,
+        "Score": -3098.857
+    },
+    {
+        "Kingdom": 179,
+        "Lost Kingdom": 1413,
+        "ID": 195188756,
+        "Name": "ES ㋡ultraD",
+        "Power": 10144447,
+        "KP": 1400153,
+        "Dead": 314950,
+        "Score": -3141.241
+    },
+    {
+        "Kingdom": 180,
+        "Lost Kingdom": 3275,
+        "ID": 195950822,
+        "Name": "NotBeau",
+        "Power": 1880059,
+        "KP": 0,
+        "Dead": 4349,
+        "Score": -3542.668
+    },
+    {
+        "Kingdom": 181,
+        "Lost Kingdom": 2119,
+        "ID": 195914576,
+        "Name": "㋡ DI3 乂",
+        "Power": 5495465,
+        "KP": 3821832,
+        "Dead": 70319,
+        "Score": -3653.148
+    },
+    {
+        "Kingdom": 182,
+        "Lost Kingdom": 1727,
+        "ID": 195752677,
+        "Name": "㋡AVENTUS FARM 4",
+        "Power": 7440233,
+        "KP": 219140,
+        "Dead": 219870,
+        "Score": -3667.826
+    },
+    {
+        "Kingdom": 183,
+        "Lost Kingdom": 729,
+        "ID": 176202310,
+        "Name": "㋡Smokee",
+        "Power": 20385809,
+        "KP": 17491118,
+        "Dead": 388515,
+        "Score": -3854.75
+    },
+    {
+        "Kingdom": 184,
+        "Lost Kingdom": 1705,
+        "ID": 192887561,
+        "Name": "㋡l๏ภﻮ Famm",
+        "Power": 7688149,
+        "KP": 1264390,
+        "Dead": 199187,
+        "Score": -4152.558
+    },
+    {
+        "Kingdom": 185,
+        "Lost Kingdom": 2502,
+        "ID": 195859185,
+        "Name": "BlackAvfgano",
+        "Power": 3600237,
+        "KP": 307620,
+        "Dead": 51723,
+        "Score": -4306.704
+    },
+    {
+        "Kingdom": 186,
+        "Lost Kingdom": 757,
+        "ID": 195981025,
+        "Name": "㋡ Novosib",
+        "Power": 21238069,
+        "KP": 8840026,
+        "Dead": 584165,
+        "Score": -4427.862
+    },
+    {
+        "Kingdom": 187,
+        "Lost Kingdom": 689,
+        "ID": 193037225,
+        "Name": "㋡ Chinner",
+        "Power": 23363225,
+        "KP": 9325823,
+        "Dead": 658028,
+        "Score": -4499.227
+    },
+    {
+        "Kingdom": 188,
+        "Lost Kingdom": 1528,
+        "ID": 195935278,
+        "Name": "㋡Viki 10",
+        "Power": 10008052,
+        "KP": 857782,
+        "Dead": 292076,
+        "Score": -4554.522
+    },
+    {
+        "Kingdom": 189,
+        "Lost Kingdom": 891,
+        "ID": 195927457,
+        "Name": "㋡Ahmed Farouk",
+        "Power": 18531923,
+        "KP": 5189539,
+        "Dead": 546098,
+        "Score": -4569.407
+    },
+    {
+        "Kingdom": 190,
+        "Lost Kingdom": 1557,
+        "ID": 195912482,
+        "Name": "palexsh",
+        "Power": 9732746,
+        "KP": 302880,
+        "Dead": 290840,
+        "Score": -4620.612
+    },
+    {
+        "Kingdom": 191,
+        "Lost Kingdom": 2193,
+        "ID": 196095448,
+        "Name": "㋡ Mira",
+        "Power": 4951114,
+        "KP": 244640,
+        "Dead": 100335,
+        "Score": -4640.838
+    },
+    {
+        "Kingdom": 192,
+        "Lost Kingdom": 2471,
+        "ID": 195892803,
+        "Name": "YOVUZ f",
+        "Power": 3864773,
+        "KP": 236880,
+        "Dead": 55242,
+        "Score": -4730.566
+    },
+    {
+        "Kingdom": 193,
+        "Lost Kingdom": 3771,
+        "ID": 187035101,
+        "Name": "Vizhett",
+        "Power": 2384882,
+        "KP": 0,
+        "Dead": 126,
+        "Score": -4763.464
+    },
+    {
+        "Kingdom": 194,
+        "Lost Kingdom": 1548,
+        "ID": 193374319,
+        "Name": "SrKiedis F1",
+        "Power": 9936746,
+        "KP": 954063,
+        "Dead": 282662,
+        "Score": -4786.329
+    },
+    {
+        "Kingdom": 195,
+        "Lost Kingdom": 2562,
+        "ID": 195781020,
+        "Name": "㋡Angry Lev",
+        "Power": 3658156,
+        "KP": 132246,
+        "Dead": 46482,
+        "Score": -4859.966
+    },
+    {
+        "Kingdom": 196,
+        "Lost Kingdom": 741,
+        "ID": 121194305,
+        "Name": "Hexel270",
+        "Power": 21969909,
+        "KP": 10389333,
+        "Dead": 570601,
+        "Score": -5020.435
+    },
+    {
+        "Kingdom": 197,
+        "Lost Kingdom": 733,
+        "ID": 195955723,
+        "Name": "㋡General Lunna",
+        "Power": 20970642,
+        "KP": 32353411,
+        "Dead": 91097,
+        "Score": -5033.023
+    },
+    {
+        "Kingdom": 198,
+        "Lost Kingdom": 2490,
+        "ID": 195950142,
+        "Name": "㋡Murthemap",
+        "Power": 4122076,
+        "KP": 381397,
+        "Dead": 54317,
+        "Score": -5146.905
+    },
+    {
+        "Kingdom": 199,
+        "Lost Kingdom": 2243,
+        "ID": 192473248,
+        "Name": "AlerQuina",
+        "Power": 5053744,
+        "KP": 385726,
+        "Dead": 87526,
+        "Score": -5345.462
+    },
+    {
+        "Kingdom": 200,
+        "Lost Kingdom": 2201,
+        "ID": 195925624,
+        "Name": "Gobernador195925624",
+        "Power": 5502603,
+        "KP": 412926,
+        "Dead": 104201,
+        "Score": -5382.23
+    },
+    {
+        "Kingdom": 201,
+        "Lost Kingdom": 632,
+        "ID": 196409191,
+        "Name": "㋡ᵀᵒᵖVOIN",
+        "Power": 25556471,
+        "KP": 13799109,
+        "Dead": 632816,
+        "Score": -5673.033
+    },
+    {
+        "Kingdom": 202,
+        "Lost Kingdom": 2679,
+        "ID": 195990085,
+        "Name": "cipollinox",
+        "Power": 3715042,
+        "KP": 86864,
+        "Dead": 32960,
+        "Score": -5695.22
+    },
+    {
+        "Kingdom": 203,
+        "Lost Kingdom": 2420,
+        "ID": 195574609,
+        "Name": "KitsuneKillah",
+        "Power": 4512487,
+        "KP": 612842,
+        "Dead": 51995,
+        "Score": -5812.382
+    },
+    {
+        "Kingdom": 204,
+        "Lost Kingdom": 2829,
+        "ID": 195913847,
+        "Name": "ᵘᶻ Kuk1",
+        "Power": 3469058,
+        "KP": 117666,
+        "Dead": 19803,
+        "Score": -5830.3
+    },
+    {
+        "Kingdom": 205,
+        "Lost Kingdom": 1074,
+        "ID": 192992907,
+        "Name": "SALATIK GRAMONO",
+        "Power": 16026870,
+        "KP": 4226910,
+        "Dead": 437179,
+        "Score": -5967.88
+    },
+    {
+        "Kingdom": 206,
+        "Lost Kingdom": 690,
+        "ID": 195914024,
+        "Name": "㋡gggwww999",
+        "Power": 23844847,
+        "KP": 10879670,
+        "Dead": 613850,
+        "Score": -6117.524
+    },
+    {
+        "Kingdom": 207,
+        "Lost Kingdom": 1365,
+        "ID": 193380212,
+        "Name": "king Andria Vl",
+        "Power": 10776573,
+        "KP": 11061256,
+        "Dead": 80682,
+        "Score": -6457.79
+    },
+    {
+        "Kingdom": 208,
+        "Lost Kingdom": 2438,
+        "ID": 130307779,
+        "Name": "Hacyv77",
+        "Power": 4920202,
+        "KP": 71449,
+        "Dead": 66100,
+        "Score": -6463.955
+    },
+    {
+        "Kingdom": 209,
+        "Lost Kingdom": 1079,
+        "ID": 194962852,
+        "Name": "㋡wlls",
+        "Power": 15452108,
+        "KP": 8732747,
+        "Dead": 310872,
+        "Score": -6627.869
+    },
+    {
+        "Kingdom": 210,
+        "Lost Kingdom": 1670,
+        "ID": 195542491,
+        "Name": "XiXiTi4",
+        "Power": 9119133,
+        "KP": 1232500,
+        "Dead": 207492,
+        "Score": -6631.166
+    },
+    {
+        "Kingdom": 211,
+        "Lost Kingdom": 747,
+        "ID": 190670341,
+        "Name": "ᴬᴴMalira",
+        "Power": 22325282,
+        "KP": 12162320,
+        "Dead": 516793,
+        "Score": -6648.594
+    },
+    {
+        "Kingdom": 212,
+        "Lost Kingdom": 3446,
+        "ID": 195931869,
+        "Name": "Captain Bron",
+        "Power": 3422780,
+        "KP": 3461,
+        "Dead": 1972,
+        "Score": -6743.499
+    },
+    {
+        "Kingdom": 213,
+        "Lost Kingdom": 828,
+        "ID": 195949879,
+        "Name": "ES㋡ Kappa",
+        "Power": 19401131,
+        "KP": 22229222,
+        "Dead": 190220,
+        "Score": -7062.04
+    },
+    {
+        "Kingdom": 214,
+        "Lost Kingdom": 2040,
+        "ID": 195873851,
+        "Name": "SIN f",
+        "Power": 6850120,
+        "KP": 793320,
+        "Dead": 116783,
+        "Score": -7067.77
+    },
+    {
+        "Kingdom": 215,
+        "Lost Kingdom": 2531,
+        "ID": 196847585,
+        "Name": "Naiya 2",
+        "Power": 4868137,
+        "KP": 147270,
+        "Dead": 49354,
+        "Score": -7121.304
+    },
+    {
+        "Kingdom": 216,
+        "Lost Kingdom": 2566,
+        "ID": 187203853,
+        "Name": "Achiles Farm7",
+        "Power": 4771955,
+        "KP": 133640,
+        "Dead": 44425,
+        "Score": -7189.02
+    },
+    {
+        "Kingdom": 217,
+        "Lost Kingdom": 2304,
+        "ID": 167784581,
+        "Name": "SUツDefender22",
+        "Power": 5479655,
+        "KP": 1265615,
+        "Dead": 49415,
+        "Score": -7222.945
+    },
+    {
+        "Kingdom": 218,
+        "Lost Kingdom": 1232,
+        "ID": 195934495,
+        "Name": "㋡ Основа",
+        "Power": 14199446,
+        "KP": 3389298,
+        "Dead": 354650,
+        "Score": -7277.094
+    },
+    {
+        "Kingdom": 219,
+        "Lost Kingdom": 1908,
+        "ID": 195985137,
+        "Name": "㋡ 浩1617",
+        "Power": 7746918,
+        "KP": 889840,
+        "Dead": 143199,
+        "Score": -7444.046
+    },
+    {
+        "Kingdom": 220,
+        "Lost Kingdom": 2217,
+        "ID": 201162902,
+        "Name": "ES㋡ Bi",
+        "Power": 6186855,
+        "KP": 760790,
+        "Dead": 82420,
+        "Score": -7491.92
+    },
+    {
+        "Kingdom": 221,
+        "Lost Kingdom": 2216,
+        "ID": 200431498,
+        "Name": "qt1201 f6",
+        "Power": 6265578,
+        "KP": 373170,
+        "Dead": 92237,
+        "Score": -7546.136
+    },
+    {
+        "Kingdom": 222,
+        "Lost Kingdom": 2346,
+        "ID": 193037263,
+        "Name": "㋡ dun k4 mama",
+        "Power": 6413847,
+        "KP": 1700266,
+        "Dead": 69702,
+        "Score": -7642.328
+    },
+    {
+        "Kingdom": 223,
+        "Lost Kingdom": 1953,
+        "ID": 195725285,
+        "Name": "SherOka f2",
+        "Power": 7722549,
+        "KP": 445605,
+        "Dead": 146862,
+        "Score": -7656.393
+    },
+    {
+        "Kingdom": 224,
+        "Lost Kingdom": 2027,
+        "ID": 195978090,
+        "Name": "TheRafff",
+        "Power": 7334774,
+        "KP": 2229482,
+        "Dead": 95590,
+        "Score": -7660.566
+    },
+    {
+        "Kingdom": 225,
+        "Lost Kingdom": 2713,
+        "ID": 195729863,
+        "Name": "MiniBroutch",
+        "Power": 4656981,
+        "KP": 130473,
+        "Dead": 28165,
+        "Score": -7775.239
+    },
+    {
+        "Kingdom": 226,
+        "Lost Kingdom": 2657,
+        "ID": 197096615,
+        "Name": "KAL KAL farm",
+        "Power": 4826712,
+        "KP": 264671,
+        "Dead": 29859,
+        "Score": -7895.803
+    },
+    {
+        "Kingdom": 227,
+        "Lost Kingdom": 3348,
+        "ID": 195908589,
+        "Name": "Riedminer",
+        "Power": 4041834,
+        "KP": 19157,
+        "Dead": 3045,
+        "Score": -7912.261
+    },
+    {
+        "Kingdom": 228,
+        "Lost Kingdom": 2046,
+        "ID": 195404706,
+        "Name": "SherOka f1",
+        "Power": 7378183,
+        "KP": 355110,
+        "Dead": 127340,
+        "Score": -8034.256
+    },
+    {
+        "Kingdom": 229,
+        "Lost Kingdom": 2589,
+        "ID": 197210131,
+        "Name": "IPQuanfarm2",
+        "Power": 5234236,
+        "KP": 114793,
+        "Dead": 42792,
+        "Score": -8214.079
+    },
+    {
+        "Kingdom": 230,
+        "Lost Kingdom": 1375,
+        "ID": 193019566,
+        "Name": "㋡ DaGrizz",
+        "Power": 13191770,
+        "KP": 664688,
+        "Dead": 348981,
+        "Score": -8269.802
+    },
+    {
+        "Kingdom": 231,
+        "Lost Kingdom": 3060,
+        "ID": 194229030,
+        "Name": "PandaFarm23m",
+        "Power": 4419409,
+        "KP": 368857,
+        "Dead": 3695,
+        "Score": -8285.211
+    },
+    {
+        "Kingdom": 232,
+        "Lost Kingdom": 715,
+        "ID": 180043827,
+        "Name": "Лешuй",
+        "Power": 22738851,
+        "KP": 18444379,
+        "Dead": 374689,
+        "Score": -8298.873
+    },
+    {
+        "Kingdom": 233,
+        "Lost Kingdom": 2002,
+        "ID": 192882784,
+        "Name": "BIGSuprise",
+        "Power": 7713876,
+        "KP": 609982,
+        "Dead": 129658,
+        "Score": -8334.87
+    },
+    {
+        "Kingdom": 234,
+        "Lost Kingdom": 1642,
+        "ID": 195946131,
+        "Name": "ES㋡ Lenaaa",
+        "Power": 10390356,
+        "KP": 1073804,
+        "Dead": 224106,
+        "Score": -8501.608
+    },
+    {
+        "Kingdom": 235,
+        "Lost Kingdom": 2087,
+        "ID": 195726805,
+        "Name": "SherOka f 3",
+        "Power": 7417906,
+        "KP": 136060,
+        "Dead": 123042,
+        "Score": -8547.652
+    },
+    {
+        "Kingdom": 236,
+        "Lost Kingdom": 3075,
+        "ID": 195965739,
+        "Name": "Torrex",
+        "Power": 4599332,
+        "KP": 137854,
+        "Dead": 9429,
+        "Score": -8589.36
+    },
+    {
+        "Kingdom": 237,
+        "Lost Kingdom": 2395,
+        "ID": 195988845,
+        "Name": "Silent77",
+        "Power": 6072338,
+        "KP": 308778,
+        "Dead": 63937,
+        "Score": -8639.048
+    },
+    {
+        "Kingdom": 238,
+        "Lost Kingdom": 1126,
+        "ID": 170830436,
+        "Name": "㋡آلرشيدي",
+        "Power": 16214816,
+        "KP": 6074373,
+        "Dead": 353669,
+        "Score": -8671.809
+    },
+    {
+        "Kingdom": 239,
+        "Lost Kingdom": 2010,
+        "ID": 192254655,
+        "Name": "㋡ Ben",
+        "Power": 7879452,
+        "KP": 575181,
+        "Dead": 128901,
+        "Score": -8738.673
+    },
+    {
+        "Kingdom": 240,
+        "Lost Kingdom": 2860,
+        "ID": 195941891,
+        "Name": "LordHelmet34",
+        "Power": 5030965,
+        "KP": 338714,
+        "Dead": 19579,
+        "Score": -8744.266
+    },
+    {
+        "Kingdom": 241,
+        "Lost Kingdom": 1092,
+        "ID": 195937300,
+        "Name": "Жор2",
+        "Power": 16597064,
+        "KP": 6798249,
+        "Dead": 352113,
+        "Score": -8790.229
+    },
+    {
+        "Kingdom": 242,
+        "Lost Kingdom": 784,
+        "ID": 192661091,
+        "Name": "㋡ IPQuan",
+        "Power": 21844243,
+        "KP": 23975903,
+        "Dead": 216184,
+        "Score": -8903.383
+    },
+    {
+        "Kingdom": 243,
+        "Lost Kingdom": 2622,
+        "ID": 196954002,
+        "Name": "MIB3722",
+        "Power": 5469887,
+        "KP": 235190,
+        "Dead": 34312,
+        "Score": -8988.984
+    },
+    {
+        "Kingdom": 244,
+        "Lost Kingdom": 865,
+        "ID": 195828480,
+        "Name": "㋡Malina",
+        "Power": 20151615,
+        "KP": 12972062,
+        "Dead": 364619,
+        "Score": -9100.218
+    },
+    {
+        "Kingdom": 245,
+        "Lost Kingdom": 2936,
+        "ID": 197329059,
+        "Name": "Tropa da Enxada",
+        "Power": 5143028,
+        "KP": 309041,
+        "Dead": 9331,
+        "Score": -9510.465
+    },
+    {
+        "Kingdom": 246,
+        "Lost Kingdom": 898,
+        "ID": 195353701,
+        "Name": "㋡ Akuna Matata",
+        "Power": 18983981,
+        "KP": 16353752,
+        "Dead": 240768,
+        "Score": -9575.81
+    },
+    {
+        "Kingdom": 247,
+        "Lost Kingdom": 2584,
+        "ID": 86741504,
+        "Name": "Бурят03р",
+        "Power": 5941644,
+        "KP": 345206,
+        "Dead": 39029,
+        "Score": -9586.632
+    },
+    {
+        "Kingdom": 248,
+        "Lost Kingdom": 2975,
+        "ID": 197328754,
+        "Name": "Farmalândia BK",
+        "Power": 5139093,
+        "KP": 278996,
+        "Dead": 8162,
+        "Score": -9591.09
+    },
+    {
+        "Kingdom": 249,
+        "Lost Kingdom": 3000,
+        "ID": 197364392,
+        "Name": "Dancing Eagle",
+        "Power": 5121045,
+        "KP": 73682,
+        "Dead": 11131,
+        "Score": -9611.858
+    },
+    {
+        "Kingdom": 250,
+        "Lost Kingdom": 2191,
+        "ID": 195751041,
+        "Name": "Buyuk hukumdor",
+        "Power": 7540905,
+        "KP": 138450,
+        "Dead": 103436,
+        "Score": -9771.56
+    },
+    {
+        "Kingdom": 251,
+        "Lost Kingdom": 2507,
+        "ID": 197244310,
+        "Name": "ES㋡JOSÉ LUIS 2",
+        "Power": 6395633,
+        "KP": 350986,
+        "Dead": 51063,
+        "Score": -9887.13
+    },
+    {
+        "Kingdom": 252,
+        "Lost Kingdom": 1320,
+        "ID": 195838692,
+        "Name": "ES㋡ SANDDY OB",
+        "Power": 14701866,
+        "KP": 5931905,
+        "Dead": 270162,
+        "Score": -9963.727
+    },
+    {
+        "Kingdom": 253,
+        "Lost Kingdom": 794,
+        "ID": 196217677,
+        "Name": "㋡PAKAL",
+        "Power": 22469163,
+        "KP": 11950143,
+        "Dead": 458645,
+        "Score": -10055.933
+    },
+    {
+        "Kingdom": 254,
+        "Lost Kingdom": 2289,
+        "ID": 195362669,
+        "Name": "㋡ Rzampa",
+        "Power": 7332466,
+        "KP": 113924,
+        "Dead": 84450,
+        "Score": -10328.508
+    },
+    {
+        "Kingdom": 255,
+        "Lost Kingdom": 1051,
+        "ID": 170528539,
+        "Name": "㋡ A҉MI҉R 乂",
+        "Power": 18218530,
+        "KP": 6346348,
+        "Dead": 394685,
+        "Score": -10356.462
+    },
+    {
+        "Kingdom": 256,
+        "Lost Kingdom": 2247,
+        "ID": 195949283,
+        "Name": "㋡SultanSuliyman",
+        "Power": 7693407,
+        "KP": 364612,
+        "Dead": 91362,
+        "Score": -10454.102
+    },
+    {
+        "Kingdom": 257,
+        "Lost Kingdom": 772,
+        "ID": 195332073,
+        "Name": "ㄴSierraㄱ",
+        "Power": 22093300,
+        "KP": 17577346,
+        "Dead": 322722,
+        "Score": -10473.154
+    },
+    {
+        "Kingdom": 258,
+        "Lost Kingdom": 2658,
+        "ID": 195925519,
+        "Name": "ДиАрт358",
+        "Power": 6115978,
+        "KP": 197500,
+        "Dead": 30035,
+        "Score": -10532.706
+    },
+    {
+        "Kingdom": 259,
+        "Lost Kingdom": 914,
+        "ID": 133002610,
+        "Name": "RogérioLoko",
+        "Power": 20939604,
+        "KP": 9027655,
+        "Dead": 446123,
+        "Score": -10545.403
+    },
+    {
+        "Kingdom": 260,
+        "Lost Kingdom": 1379,
+        "ID": 195940291,
+        "Name": "㋡hateme",
+        "Power": 13993491,
+        "KP": 3034158,
+        "Dead": 283807,
+        "Score": -10762.474
+    },
+    {
+        "Kingdom": 261,
+        "Lost Kingdom": 3480,
+        "ID": 195785757,
+        "Name": "KatyBaby",
+        "Power": 5454972,
+        "KP": 17010,
+        "Dead": 1250,
+        "Score": -10830.434
+    },
+    {
+        "Kingdom": 262,
+        "Lost Kingdom": 2993,
+        "ID": 196091082,
+        "Name": "Нея",
+        "Power": 5757963,
+        "KP": 22670,
+        "Dead": 12342,
+        "Score": -10876.156
+    },
+    {
+        "Kingdom": 263,
+        "Lost Kingdom": 2682,
+        "ID": 198910708,
+        "Name": "Divine Lord II",
+        "Power": 6085807,
+        "KP": 1155470,
+        "Dead": 2527,
+        "Score": -10889.794
+    },
+    {
+        "Kingdom": 264,
+        "Lost Kingdom": 737,
+        "ID": 193156434,
+        "Name": "㋡ Odin",
+        "Power": 23960547,
+        "KP": 16816827,
+        "Dead": 401361,
+        "Score": -11036.217
+    },
+    {
+        "Kingdom": 265,
+        "Lost Kingdom": 1804,
+        "ID": 195214134,
+        "Name": "㋡НоЧка",
+        "Power": 10496665,
+        "KP": 619510,
+        "Dead": 182830,
+        "Score": -11232.32
+    },
+    {
+        "Kingdom": 266,
+        "Lost Kingdom": 1342,
+        "ID": 195838658,
+        "Name": "ES㋡Sergio OB",
+        "Power": 14791491,
+        "KP": 4486279,
+        "Dead": 271344,
+        "Score": -11529.503
+    },
+    {
+        "Kingdom": 267,
+        "Lost Kingdom": 2000,
+        "ID": 195339199,
+        "Name": "Bắp fram 1",
+        "Power": 9422596,
+        "KP": 169050,
+        "Dead": 142528,
+        "Score": -11549.742
+    },
+    {
+        "Kingdom": 268,
+        "Lost Kingdom": 482,
+        "ID": 192705964,
+        "Name": "ᴹᵒShelby",
+        "Power": 31777636,
+        "KP": 28005020,
+        "Dead": 479268,
+        "Score": -11586.852
+    },
+    {
+        "Kingdom": 269,
+        "Lost Kingdom": 2761,
+        "ID": 196845797,
+        "Name": "㋡ ᴹʳ Virgo",
+        "Power": 6458475,
+        "KP": 354919,
+        "Dead": 16630,
+        "Score": -11730.531
+    },
+    {
+        "Kingdom": 270,
+        "Lost Kingdom": 3087,
+        "ID": 195932906,
+        "Name": "Hax4i20",
+        "Power": 6136457,
+        "KP": 69332,
+        "Dead": 9439,
+        "Score": -11731.632
+    },
+    {
+        "Kingdom": 271,
+        "Lost Kingdom": 1104,
+        "ID": 195940635,
+        "Name": "㋡prince9897",
+        "Power": 17533653,
+        "KP": 10949168,
+        "Dead": 247176,
+        "Score": -11759.338
+    },
+    {
+        "Kingdom": 272,
+        "Lost Kingdom": 2459,
+        "ID": 195149477,
+        "Name": "Farmandinho BK",
+        "Power": 7330731,
+        "KP": 920091,
+        "Dead": 37729,
+        "Score": -11854.921
+    },
+    {
+        "Kingdom": 273,
+        "Lost Kingdom": 1898,
+        "ID": 197895116,
+        "Name": "squrtel",
+        "Power": 9937558,
+        "KP": 2727588,
+        "Dead": 105306,
+        "Score": -11882.228
+    },
+    {
+        "Kingdom": 274,
+        "Lost Kingdom": 680,
+        "ID": 195916811,
+        "Name": "CLODERIC",
+        "Power": 25956557,
+        "KP": 24417853,
+        "Dead": 312183,
+        "Score": -11886.111
+    },
+    {
+        "Kingdom": 275,
+        "Lost Kingdom": 1186,
+        "ID": 120823035,
+        "Name": "ᵍᵒᵈMonkey",
+        "Power": 15662227,
+        "KP": 16919045,
+        "Dead": 50302,
+        "Score": -11890.309
+    },
+    {
+        "Kingdom": 276,
+        "Lost Kingdom": 2775,
+        "ID": 195829354,
+        "Name": "Broutchi BN",
+        "Power": 6654525,
+        "KP": 66257,
+        "Dead": 24073,
+        "Score": -12039.143
+    },
+    {
+        "Kingdom": 277,
+        "Lost Kingdom": 986,
+        "ID": 174056495,
+        "Name": "㋡ djudjuquinha",
+        "Power": 20665801,
+        "KP": 4768721,
+        "Dead": 487969,
+        "Score": -12164.431
+    },
+    {
+        "Kingdom": 278,
+        "Lost Kingdom": 3580,
+        "ID": 195954922,
+        "Name": "Partyof1",
+        "Power": 6140683,
+        "KP": 20169,
+        "Dead": 949,
+        "Score": -12213.747
+    },
+    {
+        "Kingdom": 279,
+        "Lost Kingdom": 659,
+        "ID": 195337297,
+        "Name": "㋡ NAGI 乂",
+        "Power": 26704741,
+        "KP": 17769683,
+        "Dead": 466199,
+        "Score": -12329.849
+    },
+    {
+        "Kingdom": 280,
+        "Lost Kingdom": 1295,
+        "ID": 195278187,
+        "Name": "㋡Lycanthrope",
+        "Power": 15720701,
+        "KP": 3527637,
+        "Dead": 309679,
+        "Score": -12429.815
+    },
+    {
+        "Kingdom": 281,
+        "Lost Kingdom": 2396,
+        "ID": 195958482,
+        "Name": "㋡  MAX",
+        "Power": 8676987,
+        "KP": 2705278,
+        "Dead": 43798,
+        "Score": -12458.796
+    },
+    {
+        "Kingdom": 282,
+        "Lost Kingdom": 2183,
+        "ID": 195888574,
+        "Name": "pompon 89",
+        "Power": 9146092,
+        "KP": 1773095,
+        "Dead": 80945,
+        "Score": -12471.839
+    },
+    {
+        "Kingdom": 283,
+        "Lost Kingdom": 664,
+        "ID": 195952431,
+        "Name": "㋡M0NSTER SHADY",
+        "Power": 27155120,
+        "KP": 19072160,
+        "Dead": 454821,
+        "Score": -12497.03
+    },
+    {
+        "Kingdom": 284,
+        "Lost Kingdom": 2084,
+        "ID": 195536130,
+        "Name": "Pêche",
+        "Power": 8918273,
+        "KP": 3646340,
+        "Dead": 28911,
+        "Score": -12744.656
+    },
+    {
+        "Kingdom": 285,
+        "Lost Kingdom": 1479,
+        "ID": 195352291,
+        "Name": "㋡ZVER乂",
+        "Power": 14084610,
+        "KP": 4160701,
+        "Dead": 222455,
+        "Score": -12885.769
+    },
+    {
+        "Kingdom": 286,
+        "Lost Kingdom": 1110,
+        "ID": 195941282,
+        "Name": "هتلر㋡",
+        "Power": 18464899,
+        "KP": 7771256,
+        "Dead": 325216,
+        "Score": -12897.742
+    },
+    {
+        "Kingdom": 287,
+        "Lost Kingdom": 2022,
+        "ID": 195920591,
+        "Name": "㋡RealmRider",
+        "Power": 10032581,
+        "KP": 960978,
+        "Dead": 116193,
+        "Score": -13294.534
+    },
+    {
+        "Kingdom": 288,
+        "Lost Kingdom": 1158,
+        "ID": 194993751,
+        "Name": "Dinosaure Mani",
+        "Power": 18372675,
+        "KP": 8734743,
+        "Dead": 292722,
+        "Score": -13374.507
+    },
+    {
+        "Kingdom": 289,
+        "Lost Kingdom": 1917,
+        "ID": 195915643,
+        "Name": "ssussanno",
+        "Power": 10781446,
+        "KP": 571320,
+        "Dead": 151075,
+        "Score": -13437.822
+    },
+    {
+        "Kingdom": 290,
+        "Lost Kingdom": 1371,
+        "ID": 196041622,
+        "Name": "㋡ ШАНХАЙ",
+        "Power": 15619083,
+        "KP": 4162351,
+        "Dead": 270867,
+        "Score": -13532.465
+    },
+    {
+        "Kingdom": 291,
+        "Lost Kingdom": 1441,
+        "ID": 195279240,
+        "Name": "㋡Turiksen",
+        "Power": 14770984,
+        "KP": 3269445,
+        "Dead": 254229,
+        "Score": -13561.073
+    },
+    {
+        "Kingdom": 292,
+        "Lost Kingdom": 3126,
+        "ID": 195980654,
+        "Name": "Luis117",
+        "Power": 7060037,
+        "KP": 91590,
+        "Dead": 7998,
+        "Score": -13628.584
+    },
+    {
+        "Kingdom": 293,
+        "Lost Kingdom": 3380,
+        "ID": 6710457,
+        "Name": "barsik47",
+        "Power": 6989624,
+        "KP": 80295,
+        "Dead": 2566,
+        "Score": -13770.653
+    },
+    {
+        "Kingdom": 294,
+        "Lost Kingdom": 1116,
+        "ID": 163856990,
+        "Name": "㋡  Han",
+        "Power": 19357084,
+        "KP": 3711104,
+        "Dead": 420577,
+        "Score": -13974.214
+    },
+    {
+        "Kingdom": 295,
+        "Lost Kingdom": 905,
+        "ID": 196000562,
+        "Name": "㋡ Lscim",
+        "Power": 20978183,
+        "KP": 15955298,
+        "Dead": 239416,
+        "Score": -14030.268
+    },
+    {
+        "Kingdom": 296,
+        "Lost Kingdom": 1600,
+        "ID": 193069403,
+        "Name": "ᴹᵒ fortis",
+        "Power": 12720983,
+        "KP": 7041077,
+        "Dead": 84939,
+        "Score": -14153.939
+    },
+    {
+        "Kingdom": 297,
+        "Lost Kingdom": 1022,
+        "ID": 192829727,
+        "Name": "㋡Enéas",
+        "Power": 20756302,
+        "KP": 9191632,
+        "Dead": 355835,
+        "Score": -14529.222
+    },
+    {
+        "Kingdom": 298,
+        "Lost Kingdom": 2364,
+        "ID": 196445529,
+        "Name": "SrirachaMayo666",
+        "Power": 9122818,
+        "KP": 923005,
+        "Dead": 52173,
+        "Score": -14713.981
+    },
+    {
+        "Kingdom": 299,
+        "Lost Kingdom": 2593,
+        "ID": 194987111,
+        "Name": "Веlugа",
+        "Power": 8495107,
+        "KP": 534670,
+        "Dead": 30099,
+        "Score": -14950.594
+    },
+    {
+        "Kingdom": 300,
+        "Lost Kingdom": 2889,
+        "ID": 195907212,
+        "Name": "Rodionius",
+        "Power": 8175411,
+        "KP": 269188,
+        "Dead": 17123,
+        "Score": -15225.484
+    },
+    {
+        "Kingdom": 301,
+        "Lost Kingdom": 1750,
+        "ID": 195942969,
+        "Name": "ᵀᵐGuts",
+        "Power": 12540859,
+        "KP": 3880064,
+        "Dead": 112430,
+        "Score": -15580.154
+    },
+    {
+        "Kingdom": 302,
+        "Lost Kingdom": 3009,
+        "ID": 197968714,
+        "Name": "㋡AleksandrPrim2",
+        "Power": 8057624,
+        "KP": 421129,
+        "Dead": 1144,
+        "Score": -15636.919
+    },
+    {
+        "Kingdom": 303,
+        "Lost Kingdom": 2444,
+        "ID": 195915880,
+        "Name": "SerialKillerr",
+        "Power": 9425931,
+        "KP": 490849,
+        "Dead": 52574,
+        "Score": -15732.313
+    },
+    {
+        "Kingdom": 304,
+        "Lost Kingdom": 1783,
+        "ID": 195997302,
+        "Name": "Pendalf",
+        "Power": 12821310,
+        "KP": 1336767,
+        "Dead": 168586,
+        "Score": -15876.553
+    },
+    {
+        "Kingdom": 305,
+        "Lost Kingdom": 843,
+        "ID": 195892411,
+        "Name": "㋡Ordnary",
+        "Power": 23649820,
+        "KP": 15622674,
+        "Dead": 314697,
+        "Score": -15942.116
+    },
+    {
+        "Kingdom": 306,
+        "Lost Kingdom": 2469,
+        "ID": 195532822,
+        "Name": "memento mori F",
+        "Power": 9453067,
+        "KP": 356580,
+        "Dead": 51902,
+        "Score": -15954.454
+    },
+    {
+        "Kingdom": 307,
+        "Lost Kingdom": 1873,
+        "ID": 195900612,
+        "Name": "㋡D Ivar",
+        "Power": 12115506,
+        "KP": 1670845,
+        "Dead": 130987,
+        "Score": -16010.817
+    },
+    {
+        "Kingdom": 308,
+        "Lost Kingdom": 2017,
+        "ID": 167046942,
+        "Name": "CLME",
+        "Power": 11429353,
+        "KP": 3148321,
+        "Dead": 56796,
+        "Score": -16870.585
+    },
+    {
+        "Kingdom": 309,
+        "Lost Kingdom": 1188,
+        "ID": 193007125,
+        "Name": "Rickeyvgm",
+        "Power": 19165107,
+        "KP": 8598858,
+        "Dead": 249260,
+        "Score": -17268.356
+    },
+    {
+        "Kingdom": 310,
+        "Lost Kingdom": 585,
+        "ID": 195352811,
+        "Name": "㋡Vlad is Love",
+        "Power": 29741139,
+        "KP": 32821306,
+        "Dead": 183601,
+        "Score": -17480.922
+    },
+    {
+        "Kingdom": 311,
+        "Lost Kingdom": 414,
+        "ID": 195797010,
+        "Name": "㋡SEvER",
+        "Power": 37532992,
+        "KP": 37039033,
+        "Dead": 409474,
+        "Score": -17553.251
+    },
+    {
+        "Kingdom": 312,
+        "Lost Kingdom": 2535,
+        "ID": 157789436,
+        "Name": "Samnik",
+        "Power": 10048969,
+        "KP": 1328781,
+        "Dead": 23381,
+        "Score": -17600.107
+    },
+    {
+        "Kingdom": 313,
+        "Lost Kingdom": 1249,
+        "ID": 195188678,
+        "Name": "㋡RuBbens",
+        "Power": 18440424,
+        "KP": 7760215,
+        "Dead": 227283,
+        "Score": -17756.483
+    },
+    {
+        "Kingdom": 314,
+        "Lost Kingdom": 1836,
+        "ID": 195936626,
+        "Name": "Snowleopard1419",
+        "Power": 13157120,
+        "KP": 1595158,
+        "Dead": 138921,
+        "Score": -17773.032
+    },
+    {
+        "Kingdom": 315,
+        "Lost Kingdom": 509,
+        "ID": 195940414,
+        "Name": "㋡пупс",
+        "Power": 35792874,
+        "KP": 15895078,
+        "Dead": 750085,
+        "Score": -18186.42
+    },
+    {
+        "Kingdom": 316,
+        "Lost Kingdom": 1513,
+        "ID": 195882167,
+        "Name": "㋡ Diablo76Leon",
+        "Power": 16385662,
+        "KP": 3463634,
+        "Dead": 221393,
+        "Score": -18238.04
+    },
+    {
+        "Kingdom": 317,
+        "Lost Kingdom": 1308,
+        "ID": 195907038,
+        "Name": "ES㋡ JOSÉ LUIS",
+        "Power": 19254041,
+        "KP": 10213584,
+        "Dead": 190412,
+        "Score": -18773.898
+    },
+    {
+        "Kingdom": 318,
+        "Lost Kingdom": 917,
+        "ID": 195995657,
+        "Name": "㋡ Boruto",
+        "Power": 23591631,
+        "KP": 14882779,
+        "Dead": 268987,
+        "Score": -18851.133
+    },
+    {
+        "Kingdom": 319,
+        "Lost Kingdom": 1467,
+        "ID": 195908981,
+        "Name": "㋡Kaneki",
+        "Power": 17152474,
+        "KP": 4054491,
+        "Dead": 222459,
+        "Score": -19127.507
+    },
+    {
+        "Kingdom": 320,
+        "Lost Kingdom": 2781,
+        "ID": 195736448,
+        "Name": "ES㋡HhuuKhaangg",
+        "Power": 10301727,
+        "KP": 446776,
+        "Dead": 13607,
+        "Score": -19476.328
+    },
+    {
+        "Kingdom": 321,
+        "Lost Kingdom": 1034,
+        "ID": 195926252,
+        "Name": "㋡ Dragon Tuerto",
+        "Power": 21734671,
+        "KP": 14832979,
+        "Dead": 181330,
+        "Score": -19569.863
+    },
+    {
+        "Kingdom": 322,
+        "Lost Kingdom": 1356,
+        "ID": 192903701,
+        "Name": "ᴳRecneps",
+        "Power": 18371362,
+        "KP": 6558482,
+        "Dead": 199490,
+        "Score": -20209.742
+    },
+    {
+        "Kingdom": 323,
+        "Lost Kingdom": 901,
+        "ID": 193018295,
+        "Name": "Phoenix6502",
+        "Power": 25027041,
+        "KP": 11712668,
+        "Dead": 361068,
+        "Score": -20288.014
+    },
+    {
+        "Kingdom": 324,
+        "Lost Kingdom": 802,
+        "ID": 188902562,
+        "Name": "SVR ㋛",
+        "Power": 27162750,
+        "KP": 18724062,
+        "Dead": 305775,
+        "Score": -20312.688
+    },
+    {
+        "Kingdom": 325,
+        "Lost Kingdom": 2249,
+        "ID": 178556753,
+        "Name": "㋡  pain",
+        "Power": 12442684,
+        "KP": 1759259,
+        "Dead": 47003,
+        "Score": -20775.959
+    },
+    {
+        "Kingdom": 326,
+        "Lost Kingdom": 1756,
+        "ID": 195903060,
+        "Name": "ES㋡ Naiya",
+        "Power": 15845786,
+        "KP": 4089197,
+        "Dead": 133549,
+        "Score": -20924.925
+    },
+    {
+        "Kingdom": 327,
+        "Lost Kingdom": 1403,
+        "ID": 177659220,
+        "Name": "HOTMAMA",
+        "Power": 17346932,
+        "KP": 11120609,
+        "Dead": 52777,
+        "Score": -20934.405
+    },
+    {
+        "Kingdom": 328,
+        "Lost Kingdom": 1423,
+        "ID": 196129211,
+        "Name": "㋡Divine Lord",
+        "Power": 19927691,
+        "KP": 13571719,
+        "Dead": 104914,
+        "Score": -21037.963
+    },
+    {
+        "Kingdom": 329,
+        "Lost Kingdom": 1742,
+        "ID": 194943957,
+        "Name": "taracenik",
+        "Power": 16049946,
+        "KP": 4048949,
+        "Dead": 136868,
+        "Score": -21207.543
+    },
+    {
+        "Kingdom": 330,
+        "Lost Kingdom": 1531,
+        "ID": 193389975,
+        "Name": "giánn",
+        "Power": 18104752,
+        "KP": 1483413,
+        "Dead": 266666,
+        "Score": -21392.791
+    },
+    {
+        "Kingdom": 331,
+        "Lost Kingdom": 2370,
+        "ID": 193614692,
+        "Name": "ʕᵔᴥᵔʔ",
+        "Power": 12534179,
+        "KP": 409294,
+        "Dead": 64704,
+        "Score": -21423.864
+    },
+    {
+        "Kingdom": 332,
+        "Lost Kingdom": 1231,
+        "ID": 197359927,
+        "Name": "㋡ Golden Mole",
+        "Power": 20503727,
+        "KP": 8102391,
+        "Dead": 228732,
+        "Score": -21468.463
+    },
+    {
+        "Kingdom": 333,
+        "Lost Kingdom": 1997,
+        "ID": 5947025,
+        "Name": "Daryana98",
+        "Power": 14271449,
+        "KP": 1525232,
+        "Dead": 107700,
+        "Score": -21632.666
+    },
+    {
+        "Kingdom": 334,
+        "Lost Kingdom": 3212,
+        "ID": 196049821,
+        "Name": "㋡ Omba",
+        "Power": 11149771,
+        "KP": 175728,
+        "Dead": 5634,
+        "Score": -21842.114
+    },
+    {
+        "Kingdom": 335,
+        "Lost Kingdom": 1672,
+        "ID": 196557706,
+        "Name": "㋡TimurkaPrime",
+        "Power": 15725795,
+        "KP": 7128890,
+        "Dead": 48519,
+        "Score": -21896.75
+    },
+    {
+        "Kingdom": 336,
+        "Lost Kingdom": 1899,
+        "ID": 197488752,
+        "Name": "ГУДВИН",
+        "Power": 14667566,
+        "KP": 3117175,
+        "Dead": 85666,
+        "Score": -21934.657
+    },
+    {
+        "Kingdom": 337,
+        "Lost Kingdom": 1463,
+        "ID": 196131718,
+        "Name": "㋡ Tyrinor",
+        "Power": 18601878,
+        "KP": 3990920,
+        "Dead": 223392,
+        "Score": -22043.236
+    },
+    {
+        "Kingdom": 338,
+        "Lost Kingdom": 1499,
+        "ID": 190084781,
+        "Name": "㋡ mrSatoshi",
+        "Power": 18429963,
+        "KP": 3807930,
+        "Dead": 219211,
+        "Score": -22091.446
+    },
+    {
+        "Kingdom": 339,
+        "Lost Kingdom": 2328,
+        "ID": 195955170,
+        "Name": "㋡Beli9969",
+        "Power": 13058347,
+        "KP": 838570,
+        "Dead": 57596,
+        "Score": -22398.324
+    },
+    {
+        "Kingdom": 340,
+        "Lost Kingdom": 1382,
+        "ID": 195768896,
+        "Name": "окуНь",
+        "Power": 18520032,
+        "KP": 11777603,
+        "Dead": 49754,
+        "Score": -22774.761
+    },
+    {
+        "Kingdom": 341,
+        "Lost Kingdom": 2383,
+        "ID": 192908342,
+        "Name": "SAITAMAF2P",
+        "Power": 13264631,
+        "KP": 731896,
+        "Dead": 58451,
+        "Score": -22874.816
+    },
+    {
+        "Kingdom": 342,
+        "Lost Kingdom": 2595,
+        "ID": 196392566,
+        "Name": "NickMilesF",
+        "Power": 12918332,
+        "KP": 339584,
+        "Dead": 42006,
+        "Score": -23396.78
+    },
+    {
+        "Kingdom": 343,
+        "Lost Kingdom": 2070,
+        "ID": 195950219,
+        "Name": "Beavertail",
+        "Power": 15037730,
+        "KP": 1551004,
+        "Dead": 88190,
+        "Score": -24114.956
+    },
+    {
+        "Kingdom": 344,
+        "Lost Kingdom": 1535,
+        "ID": 195894675,
+        "Name": "㋡Maverick2003",
+        "Power": 18624792,
+        "KP": 7611791,
+        "Dead": 104049,
+        "Score": -24435.343
+    },
+    {
+        "Kingdom": 345,
+        "Lost Kingdom": 2414,
+        "ID": 195945824,
+        "Name": "㋡Alex L",
+        "Power": 13791988,
+        "KP": 1007534,
+        "Dead": 42367,
+        "Score": -24458.092
+    },
+    {
+        "Kingdom": 346,
+        "Lost Kingdom": 908,
+        "ID": 192042123,
+        "Name": "ES㋡moody",
+        "Power": 27249859,
+        "KP": 11133318,
+        "Dead": 366556,
+        "Score": -25038.6
+    },
+    {
+        "Kingdom": 347,
+        "Lost Kingdom": 2286,
+        "ID": 196064735,
+        "Name": "㋡Killer Romeo",
+        "Power": 14763948,
+        "KP": 429630,
+        "Dead": 76583,
+        "Score": -25269.116
+    },
+    {
+        "Kingdom": 348,
+        "Lost Kingdom": 1774,
+        "ID": 195944378,
+        "Name": "㋡TKUCFOX",
+        "Power": 17137204,
+        "KP": 7285888,
+        "Dead": 30940,
+        "Score": -25441.52
+    },
+    {
+        "Kingdom": 349,
+        "Lost Kingdom": 1268,
+        "ID": 195467563,
+        "Name": "ˢʷKAOS",
+        "Power": 22343869,
+        "KP": 5934378,
+        "Dead": 258739,
+        "Score": -25816.41
+    },
+    {
+        "Kingdom": 350,
+        "Lost Kingdom": 1143,
+        "ID": 153891296,
+        "Name": "Fatih II MEHMET",
+        "Power": 24399377,
+        "KP": 5417830,
+        "Dead": 351180,
+        "Score": -25821.924
+    },
+    {
+        "Kingdom": 351,
+        "Lost Kingdom": 2619,
+        "ID": 195948718,
+        "Name": "Виктор 25",
+        "Power": 13909454,
+        "KP": 819384,
+        "Dead": 19238,
+        "Score": -26037.624
+    },
+    {
+        "Kingdom": 352,
+        "Lost Kingdom": 795,
+        "ID": 192261803,
+        "Name": "㋡ Bulletproof",
+        "Power": 29910425,
+        "KP": 16062685,
+        "Dead": 349484,
+        "Score": -26283.965
+    },
+    {
+        "Kingdom": 353,
+        "Lost Kingdom": 2427,
+        "ID": 195960165,
+        "Name": "سعود الدايل ES㋡",
+        "Power": 14732988,
+        "KP": 548450,
+        "Dead": 52552,
+        "Score": -26289.926
+    },
+    {
+        "Kingdom": 354,
+        "Lost Kingdom": 2539,
+        "ID": 196391343,
+        "Name": "Grall",
+        "Power": 15548398,
+        "KP": 2617314,
+        "Dead": 39971,
+        "Score": -26480.932
+    },
+    {
+        "Kingdom": 355,
+        "Lost Kingdom": 1979,
+        "ID": 195889099,
+        "Name": "㋡samy",
+        "Power": 16638903,
+        "KP": 3906896,
+        "Dead": 47499,
+        "Score": -26995.96
+    },
+    {
+        "Kingdom": 356,
+        "Lost Kingdom": 2896,
+        "ID": 195948419,
+        "Name": "didjx",
+        "Power": 14115767,
+        "KP": 355997,
+        "Dead": 15010,
+        "Score": -27125.037
+    },
+    {
+        "Kingdom": 357,
+        "Lost Kingdom": 1806,
+        "ID": 196086189,
+        "Name": "㋡Namstya",
+        "Power": 17442524,
+        "KP": 6751048,
+        "Dead": 18839,
+        "Score": -27192.05
+    },
+    {
+        "Kingdom": 358,
+        "Lost Kingdom": 2439,
+        "ID": 192846943,
+        "Name": "Osamabinlaggin",
+        "Power": 15101759,
+        "KP": 1165856,
+        "Dead": 34198,
+        "Score": -27327.762
+    },
+    {
+        "Kingdom": 359,
+        "Lost Kingdom": 1010,
+        "ID": 191250072,
+        "Name": "พ่อง",
+        "Power": 26309550,
+        "KP": 16031709,
+        "Dead": 184884,
+        "Score": -27343.191
+    },
+    {
+        "Kingdom": 360,
+        "Lost Kingdom": 2197,
+        "ID": 195909522,
+        "Name": "igor1997 ㋡",
+        "Power": 15955729,
+        "KP": 2411061,
+        "Dead": 41553,
+        "Score": -27422.747
+    },
+    {
+        "Kingdom": 361,
+        "Lost Kingdom": 2359,
+        "ID": 194972471,
+        "Name": "Elpompon",
+        "Power": 15456524,
+        "KP": 1514249,
+        "Dead": 38903,
+        "Score": -27453.649
+    },
+    {
+        "Kingdom": 362,
+        "Lost Kingdom": 2340,
+        "ID": 195115829,
+        "Name": "Abu mr3i",
+        "Power": 15850800,
+        "KP": 1705790,
+        "Dead": 43730,
+        "Score": -27809.31
+    },
+    {
+        "Kingdom": 363,
+        "Lost Kingdom": 2731,
+        "ID": 195632730,
+        "Name": "lukasz2979",
+        "Power": 15002226,
+        "KP": 531328,
+        "Dead": 26488,
+        "Score": -28148.724
+    },
+    {
+        "Kingdom": 364,
+        "Lost Kingdom": 2277,
+        "ID": 195972225,
+        "Name": "㋡LØnelyシ",
+        "Power": 15979433,
+        "KP": 2139402,
+        "Dead": 29988,
+        "Score": -28320.064
+    },
+    {
+        "Kingdom": 365,
+        "Lost Kingdom": 2626,
+        "ID": 196136273,
+        "Name": "㋡MepL",
+        "Power": 15152499,
+        "KP": 802175,
+        "Dead": 18529,
+        "Score": -28576.373
+    },
+    {
+        "Kingdom": 366,
+        "Lost Kingdom": 1847,
+        "ID": 195896901,
+        "Name": "㋡Khasan09",
+        "Power": 18427289,
+        "KP": 3051276,
+        "Dead": 101466,
+        "Score": -28730.002
+    },
+    {
+        "Kingdom": 367,
+        "Lost Kingdom": 1316,
+        "ID": 195455049,
+        "Name": "㋡Svetik 2025",
+        "Power": 23241560,
+        "KP": 6874992,
+        "Dead": 217299,
+        "Score": -28743.178
+    },
+    {
+        "Kingdom": 368,
+        "Lost Kingdom": 1090,
+        "ID": 195332227,
+        "Name": "㋡deint",
+        "Power": 26314924,
+        "KP": 10240025,
+        "Dead": 271245,
+        "Score": -28827.573
+    },
+    {
+        "Kingdom": 369,
+        "Lost Kingdom": 2697,
+        "ID": 195964492,
+        "Name": "㋡cantu2190",
+        "Power": 15209299,
+        "KP": 423240,
+        "Dead": 19941,
+        "Score": -28998.308
+    },
+    {
+        "Kingdom": 370,
+        "Lost Kingdom": 1604,
+        "ID": 196001790,
+        "Name": "㋡Плюшааа",
+        "Power": 21259141,
+        "KP": 921740,
+        "Dead": 251760,
+        "Score": -29008.542
+    },
+    {
+        "Kingdom": 371,
+        "Lost Kingdom": 2473,
+        "ID": 196024697,
+        "Name": "㋡ Rapatumai",
+        "Power": 16010231,
+        "KP": 1057633,
+        "Dead": 33120,
+        "Score": -29306.829
+    },
+    {
+        "Kingdom": 372,
+        "Lost Kingdom": 2651,
+        "ID": 191520776,
+        "Name": "ᴷᴳRastishKA",
+        "Power": 15597448,
+        "KP": 546815,
+        "Dead": 23297,
+        "Score": -29483.231
+    },
+    {
+        "Kingdom": 373,
+        "Lost Kingdom": 1999,
+        "ID": 105054246,
+        "Name": "KSA  15",
+        "Power": 18235598,
+        "KP": 3217617,
+        "Dead": 61682,
+        "Score": -30169.479
+    },
+    {
+        "Kingdom": 374,
+        "Lost Kingdom": 2281,
+        "ID": 195888432,
+        "Name": "㋡ MarkKats",
+        "Power": 18060576,
+        "KP": 1054374,
+        "Dead": 70330,
+        "Score": -31550.278
+    },
+    {
+        "Kingdom": 375,
+        "Lost Kingdom": 2275,
+        "ID": 196131036,
+        "Name": "㋡ skinnye",
+        "Power": 17889280,
+        "KP": 1667241,
+        "Dead": 43299,
+        "Score": -31946.369
+    },
+    {
+        "Kingdom": 376,
+        "Lost Kingdom": 2016,
+        "ID": 195193552,
+        "Name": "㋡ ShadøwNⱥim",
+        "Power": 19249416,
+        "KP": 4391208,
+        "Dead": 39902,
+        "Score": -32112.524
+    },
+    {
+        "Kingdom": 377,
+        "Lost Kingdom": 1876,
+        "ID": 195669542,
+        "Name": "㋡Viki007",
+        "Power": 20497910,
+        "KP": 897794,
+        "Dead": 151780,
+        "Score": -32509.026
+    },
+    {
+        "Kingdom": 378,
+        "Lost Kingdom": 1803,
+        "ID": 195913938,
+        "Name": "㋡ U э F",
+        "Power": 21094103,
+        "KP": 2533515,
+        "Dead": 132550,
+        "Score": -33027.191
+    },
+    {
+        "Kingdom": 379,
+        "Lost Kingdom": 2554,
+        "ID": 197109096,
+        "Name": "SUDJIN",
+        "Power": 17627071,
+        "KP": 853701,
+        "Dead": 27120,
+        "Score": -33044.441
+    },
+    {
+        "Kingdom": 380,
+        "Lost Kingdom": 2880,
+        "ID": 195965821,
+        "Name": "XìKE",
+        "Power": 17069092,
+        "KP": 802280,
+        "Dead": 4358,
+        "Score": -33118.004
+    },
+    {
+        "Kingdom": 381,
+        "Lost Kingdom": 1719,
+        "ID": 195936023,
+        "Name": "㋡PetrusDragon",
+        "Power": 22782782,
+        "KP": 2724397,
+        "Dead": 180726,
+        "Score": -33804.867
+    },
+    {
+        "Kingdom": 382,
+        "Lost Kingdom": 1941,
+        "ID": 195963070,
+        "Name": "㋡ NuuxVi",
+        "Power": 20602439,
+        "KP": 1927627,
+        "Dead": 109251,
+        "Score": -33814.701
+    },
+    {
+        "Kingdom": 383,
+        "Lost Kingdom": 1779,
+        "ID": 195951713,
+        "Name": "MansteinSB",
+        "Power": 21521679,
+        "KP": 7142170,
+        "Dead": 30701,
+        "Score": -34366.138
+    },
+    {
+        "Kingdom": 384,
+        "Lost Kingdom": 3011,
+        "ID": 195609322,
+        "Name": "㋡Malka4aglu",
+        "Power": 17793018,
+        "KP": 451460,
+        "Dead": 255,
+        "Score": -35121.826
+    },
+    {
+        "Kingdom": 385,
+        "Lost Kingdom": 2360,
+        "ID": 195968112,
+        "Name": "kmoonき",
+        "Power": 19239924,
+        "KP": 1467745,
+        "Dead": 37666,
+        "Score": -35128.803
+    },
+    {
+        "Kingdom": 386,
+        "Lost Kingdom": 1644,
+        "ID": 195724768,
+        "Name": "㋡Капибар",
+        "Power": 22680592,
+        "KP": 6632747,
+        "Dead": 71381,
+        "Score": -35159.387
+    },
+    {
+        "Kingdom": 387,
+        "Lost Kingdom": 1890,
+        "ID": 195480320,
+        "Name": "㋡ᴮHayakuli",
+        "Power": 21316263,
+        "KP": 3583902,
+        "Dead": 73718,
+        "Score": -35362.724
+    },
+    {
+        "Kingdom": 388,
+        "Lost Kingdom": 2518,
+        "ID": 154032554,
+        "Name": "㋡ Ninja228",
+        "Power": 18914012,
+        "KP": 894860,
+        "Dead": 30613,
+        "Score": -35402.514
+    },
+    {
+        "Kingdom": 389,
+        "Lost Kingdom": 1374,
+        "ID": 195941278,
+        "Name": "㋡MAD in ITALY",
+        "Power": 25218000,
+        "KP": 9424110,
+        "Dead": 109063,
+        "Score": -35558.74
+    },
+    {
+        "Kingdom": 390,
+        "Lost Kingdom": 2031,
+        "ID": 196073905,
+        "Name": "㋡ КНЯЗЬ777",
+        "Power": 21145906,
+        "KP": 1650093,
+        "Dead": 95007,
+        "Score": -35891.369
+    },
+    {
+        "Kingdom": 391,
+        "Lost Kingdom": 1654,
+        "ID": 196064454,
+        "Name": "JACKlinks",
+        "Power": 23209333,
+        "KP": 5227164,
+        "Dead": 103811,
+        "Score": -36000.952
+    },
+    {
+        "Kingdom": 392,
+        "Lost Kingdom": 2969,
+        "ID": 196074845,
+        "Name": "㋡ RacerOk",
+        "Power": 18333913,
+        "KP": 449670,
+        "Dead": 1933,
+        "Score": -36121.506
+    },
+    {
+        "Kingdom": 393,
+        "Lost Kingdom": 1709,
+        "ID": 195923380,
+        "Name": "㋡MAVERICK",
+        "Power": 22457533,
+        "KP": 8466806,
+        "Dead": 1820,
+        "Score": -36357.26
+    },
+    {
+        "Kingdom": 394,
+        "Lost Kingdom": 2170,
+        "ID": 192319672,
+        "Name": "Erfaneh",
+        "Power": 20739456,
+        "KP": 2261839,
+        "Dead": 49771,
+        "Score": -36728.523
+    },
+    {
+        "Kingdom": 395,
+        "Lost Kingdom": 1471,
+        "ID": 195943668,
+        "Name": "㋡Jester",
+        "Power": 25044407,
+        "KP": 8430595,
+        "Dead": 92366,
+        "Score": -37039.919
+    },
+    {
+        "Kingdom": 396,
+        "Lost Kingdom": 1564,
+        "ID": 195939259,
+        "Name": "㋡Айрат90",
+        "Power": 25633878,
+        "KP": 3416677,
+        "Dead": 201093,
+        "Score": -37796.429
+    },
+    {
+        "Kingdom": 397,
+        "Lost Kingdom": 1897,
+        "ID": 196081077,
+        "Name": "㋡ Alias98",
+        "Power": 22381656,
+        "KP": 4743369,
+        "Dead": 34523,
+        "Score": -38293.793
+    },
+    {
+        "Kingdom": 398,
+        "Lost Kingdom": 1883,
+        "ID": 195320521,
+        "Name": "㋡Dimitrius",
+        "Power": 22926157,
+        "KP": 3964940,
+        "Dead": 64095,
+        "Score": -38682.624
+    },
+    {
+        "Kingdom": 399,
+        "Lost Kingdom": 2164,
+        "ID": 195916684,
+        "Name": "㋡ ChillguyVN",
+        "Power": 23776834,
+        "KP": 6658184,
+        "Dead": 21105,
+        "Score": -39840.234
+    },
+    {
+        "Kingdom": 400,
+        "Lost Kingdom": 1857,
+        "ID": 195461401,
+        "Name": "㋡ TheMatterion",
+        "Power": 24387001,
+        "KP": 5012675,
+        "Dead": 44741,
+        "Score": -41524.277
+    },
+    {
+        "Kingdom": 401,
+        "Lost Kingdom": 1934,
+        "ID": 195330668,
+        "Name": "㋡ Katalo",
+        "Power": 24048045,
+        "KP": 4961338,
+        "Dead": 25353,
+        "Score": -41867.102
+    },
+    {
+        "Kingdom": 402,
+        "Lost Kingdom": 2963,
+        "ID": 195896057,
+        "Name": "Nguyen son",
+        "Power": 21923017,
+        "KP": 437081,
+        "Dead": 14065,
+        "Score": -42705.703
+    },
+    {
+        "Kingdom": 403,
+        "Lost Kingdom": 1281,
+        "ID": 195416118,
+        "Name": "㋡ ugly",
+        "Power": 29873442,
+        "KP": 11567994,
+        "Dead": 92716,
+        "Score": -43543.09
+    },
+    {
+        "Kingdom": 404,
+        "Lost Kingdom": 1980,
+        "ID": 193196042,
+        "Name": "Tudor VIII",
+        "Power": 25370460,
+        "KP": 1152118,
+        "Dead": 120686,
+        "Score": -43554.502
+    },
+    {
+        "Kingdom": 405,
+        "Lost Kingdom": 1814,
+        "ID": 192589372,
+        "Name": "Эльнур",
+        "Power": 25506976,
+        "KP": 6757458,
+        "Dead": 13486,
+        "Score": -43582.194
+    },
+    {
+        "Kingdom": 406,
+        "Lost Kingdom": 1667,
+        "ID": 190068842,
+        "Name": "㋡VeEniXs",
+        "Power": 30443346,
+        "KP": 6109230,
+        "Dead": 74895,
+        "Score": -51032.712
+    }
+]
