@@ -21,9 +21,16 @@ a{
     color: aliceblue;
 }
 
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .lobby{
     display: flex;
-    height: 50vh;
+    max-height: 50vh;
+    min-height: 20vh;
     width: 100%;
     background-image: url(image/kingdom_come_deliverance_ii_review__5vf8hs.jpg);
     background-size: cover;
@@ -73,4 +80,42 @@ a{
 .kvk-status-container{
     display: flex;
     flex-direction: column;
+    max-width: 80%;
+    margin: 30px;
+    padding: 40px;
 }
+
+.tabela-ranking{
+    width: 70%;
+    margin: auto;
+}
+
+table {
+        width: 100%;
+        border-radius: 15px;
+        padding: 15px;
+        background-color: #1a1a1a;
+        border: none;
+        margin-top: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    th, td {
+        border: 0px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #222222;
+        color: white;
+        cursor: pointer;
+    }
+
+    tr:nth-child(even) {
+        background-color: #424242;
+    }
+
+    tr:hover {
+        background-color: #ffffff25;
+    }
