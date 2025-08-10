@@ -1,5 +1,5 @@
 window.onload = async function () {
-    const response = await fetch('./database/kvk_mock_db.json');
+    const response = await fetch('./database/kvk-mock-db-end.json');
     const dados = await response.json();
 
     // Ordenar por pontuação (Score) de forma decrescente
@@ -20,9 +20,9 @@ window.onload = async function () {
         const linha = document.createElement('tr');
         linha.innerHTML = `
             <td data-sort="${item.Kingdom}">${item.Kingdom}</td>
-            <td data-sort="${item["Lost Kingdom"]}">${item["Lost Kingdom"]}</td>
-            <td data-sort="${item.ID}">${item.ID}</td>
-            <td>${item.Name}</td>
+            <td data-sort="${item["LK"]}">${item["LK"]}</td>
+            <td data-sort="${item["Governor ID"]}">${item["Governor ID"]}</td>
+            <td>${item["Governor Name"]}</td>
             <td data-sort="${item.Power}">${formatador.format(item.Power)}</td>
             <td data-sort="${item.KP}">${formatador.format(item.KP)}</td>
             <td data-sort="${item.Dead}">${formatador.format(item.Dead)}</td>
